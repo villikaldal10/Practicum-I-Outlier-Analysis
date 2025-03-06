@@ -1,0 +1,1368 @@
+account_id,account_name,Scope_3_emissions_amount,z_score,Primary activity,Year
+15941,Rolls-Royce,120077646.0,2.643861636882385,Engines & motors,2013
+4663,Deutsche Post AG,32350000.0,2.5452309344712454,Logistics - 3rd party,2013
+3329,"Cisco Systems, Inc.",33536304.0,2.1678439602303685,Communications equipment,2013
+5811,Ericsson,34138300.0,2.2147149716981342,Communications equipment,2013
+16191,Samsung Electronics,40537152.0,2.712925367568765,Communications equipment,2013
+10609,LEGRAND,1678575.0,3.252329586228363,Fabricated metal components,2013
+12095,Mirvac Group,42553.0,2.711946005895192,Real estate owners & developers,2013
+3564,The Coca-Cola Company,54756175.0,2.822461583358513,Non-alcoholic beverages,2013
+5584,Endesa,36910956.27,2.645734834627192,0,2013
+1452,Bank of America,4231128.0,4.348037850908183,Asset managers,2013
+34772,Camargo Correa,36063500.0,3.5535208969699807,Transportation infrastructure & other construction,2013
+19080,thyssenkrupp AG,3514000.0,3.8669131207682015,Commercial services,2013
+5108,E.ON SE,149646437.0,2.073503218184554,CCGT generation,2013
+7121,ENGIE,174907815.0,2.535913427627619,CCGT generation,2013
+3649,Commonwealth Bank of Australia,39634361.0,9.906864398189382,Banks,2013
+12291,"Mizuho Financial Group, Inc.",8658200.21,2.0497429739320294,Banks,2013
+13161,NH Hotel Group,1112720049.0,2.82838004395551,Hotels & lodging,2013
+904,ArcelorMittal,13078000.0,2.701969003553037,Iron & steel,2013
+14709,Koninklijke Philips NV,306982393.0,3.464097872231642,Medical equipment,2013
+14605,"PepsiCo, Inc.",14117818.0,2.1683376679296607,Other food processing,2013
+42037,Mondelez International Inc,17372534.0,2.7926592735744986,Other food processing,2013
+19569,United Continental Holdings,7213658.0,2.0097810009581942,Passenger airlines,2013
+1581,Bayer AG,34387000.0,4.203648075021149,Pharmaceuticals,2013
+14712,Philip Morris International,5002456.0,2.482400512950634,Tobacco products,2013
+3588,Cognizant Technology Solutions Corp.,70930.0,2.1998658220333693,IT services,2013
+10629,Legal and General Investment Management,2373021.0,7.026184097598336,Insurance,2013
+2302,Sky plc,3221355.0,3.347611646160656,Marketing,2013
+18574,Tesco,44825683.0,4.398313921378013,"Supermarkets, food & drugstores",2013
+5194,Eaton Corporation,109402101.0,2.0065272093941853,Electrical equipment,2013
+8338,"Hitachi, Ltd.",185587908.0,3.689341356389498,Electrical equipment,2013
+12144,Mitsubishi Electric Corporation,120739046.0,2.2569409305444745,Electrical equipment,2013
+1516,BASF SE,129162000.0,4.19505715386951,Specialty chemicals,2013
+10733,"L Brands, Inc.",551926.0,2.423233081032504,Apparel stores,2013
+11930,Microsoft Corporation,5584543.0,2.068122551396244,Software,2013
+16339,SAP SE,6265097.0,2.3827969058873077,Software,2013
+16794,Sharp Corporation,32522000.0,2.109809420387699,Electronic components,2013
+19197,Toshiba Corporation,71811900.0,5.055163959452678,Electronic components,2013
+16837,Shimizu Corporation,18371708.0,3.263860781547988,Non-residential building construction,2013
+20205,Vinci,13162839.0,2.202259255500626,Non-residential building construction,2013
+16418,Schlumberger Limited,2112000.0,2.4444527590281853,Energy services & equipment,2013
+10156,Kingfisher,11760504.0,2.238439616864746,Specialist retail,2013
+20309,Volkswagen AG,325495862.0,2.150411243050673,Automobiles,2013
+4256,"Daiwa House Industry Co., Ltd.",10582195.0,2.7618667017636658,Residential building construction,2013
+4120,CSX Corporation,177381.0,2.3943284307616426,Rail freight,2013
+10670,LG Electronics,93217465.0,3.008394478067889,Electronic equipment,2013
+14292,Panasonic Corporation,94226900.0,3.045426095167385,Electronic equipment,2013
+19169,Tokyu Fudosan Holdings Corporation,368829.0,2.6381304983736475,Real estate services,2013
+18585,TETRA PAK,13153100.0,3.128792381034918,Paper products,2013
+29062,Texen,45642.0,2.2266208415997037,Other containers & packaging,2013
+32498,Abengoa,4590957.0,2.828384383423856,Engineering services,2013
+8212,Heineken NV,10560231.34,3.4793652090616374,Alcoholic beverages,2013
+4826,The Dow Chemical Company,84960000.0,2.988911295461032,Other base chemicals,2013
+2377,BT Group,4605662.0,2.7305067534322145,Telecommunications services,2013
+13298,Nippon Telegraph & Telephone Corporation (NTT),6406232.0,3.945793253550914,Telecommunications services,2013
+18427,Telefonica,6409534.0,3.948021923374021,Telecommunications services,2013
+9992,"Kawasaki Heavy Industries, Ltd.",80696650.0,4.304925670954908,Industrial machinery,2013
+6874,Fujitsu Ltd.,7295565.0,3.67496499032414,Other professional services,2013
+12903,NEC Corporation,7669873.0,3.884261727722486,Other professional services,2013
+19829,Unilever plc,57068118.0,3.7647170867697337,Personal care & household products,2013
+2297,British Land Company,6050229.0,5.113187388055785,REIT,2013
+23576,Sonoco Products Company,355477434.0,3.557560829484218,Plastic products,2013
+14678,PG&E Corporation,46063764.0,2.2645438998452967,Electricity networks,2013
+16652,Sempra Energy,62864572.76,3.27523376832782,Electricity networks,2013
+3751,ConocoPhillips,227276000.0,3.4720123704466155,Oil & gas extraction,2013
+777,Anglo American Platinum,1798042.0,2.78582654190308,Precious metals & minerals mining,2013
+11063,LVMH,722217.0,2.2158553934905187,Apparel & footwear design,2013
+23129,Stora Enso Oyj,6711050.0,2.0409062240522373,Pulp & paper mills,2013
+17788,Steelcase,324418.9,2.626556509425608,Furniture,2013
+38047,Satellite Logistics Group,28621504.0,2.793645045917831,Marine freight,2013
+7619,Goodyear Tire & Rubber Company,175875848.56,2.3303909055375325,Rubber products,2014
+15941,Rolls-Royce,125086000.0,2.8268097928728366,Engines & motors,2014
+10239,Komatsu Ltd.,26305000.0,2.1019793653176904,"Agriculture, construction & mining machinery",2014
+4663,Deutsche Post AG,31840000.0,2.927988983875897,Logistics - 3rd party,2014
+4255,"Daito Trust Construction Co., Ltd.",749529.79,2.4480410840133464,Real estate services,2014
+18585,TETRA PAK,11652913.0,3.713074797521241,Paper products,2014
+29062,Texen,45884.0,2.18409005335813,Other containers & packaging,2014
+13566,NSK Ltd.,3539580.0,3.575554124945284,Fabricated metal components,2014
+13586,NTT Urban Development Corporation,706112.0,3.587618901547508,Real estate owners & developers,2014
+13807,Old Mutual Group,32556803.49,4.42294610392634,Asset managers,2014
+2096,Bouygues,15611700.0,2.855289976192949,Transportation infrastructure & other construction,2014
+6305,FERROVIAL,12213789.0,2.097530437883018,Transportation infrastructure & other construction,2014
+19080,thyssenkrupp AG,4700000.0,3.860936057052531,Commercial services,2014
+5108,E.ON SE,155360000.0,2.0711983296877894,CCGT generation,2014
+7121,ENGIE,201027816.0,2.880998271006436,CCGT generation,2014
+3398,Citigroup Inc.,9890964.0,7.726977103899477,Banks,2014
+4645,Deutsche Bank AG,4098755.34,3.061874875165433,Banks,2014
+12291,"Mizuho Financial Group, Inc.",7265200.069999999,5.612160825514149,Banks,2014
+20575,Wells Fargo & Company,3190327.0,2.3302176918105832,Banks,2014
+8525,LafargeHolcim Ltd,21908572.0,2.4992099820489417,Cement,2014
+22499,Intercontinental Hotels Group,7100334.0,2.251597232953418,Hotels & lodging,2014
+14929,POSCO,18517504.0,2.197379182769905,Iron & steel,2014
+14709,Koninklijke Philips NV,304210903.0,2.9999914928486566,Medical equipment,2014
+14605,"PepsiCo, Inc.",16754670.0,2.249546540899346,Other food processing,2014
+42037,Mondelez International Inc,17526500.0,2.3823157124795804,Other food processing,2014
+19569,United Continental Holdings,7234932.0,2.3253324670950506,Passenger airlines,2014
+1581,Bayer AG,34078000.0,4.748376003847766,Pharmaceuticals,2014
+3588,Cognizant Technology Solutions Corp.,108905.0,2.195909722319805,IT services,2014
+21394,Wistron Corp,843307068.7,5.9969046779820525,Electronic components,2014
+1516,BASF SE,125697000.0,3.3654420700524907,Specialty chemicals,2014
+16839,"Shin-Etsu Chemical Co., Ltd.",126482775.62,3.3891067188364143,Specialty chemicals,2014
+17377,"Sompo Holdings, Inc",1286852.9,5.809776847521649,Insurance,2014
+31538,"MS&AD Insurance Group Holdings, Inc.",849015.0,3.715577562222943,Insurance,2014
+2302,Sky plc,2802576.0,3.406790283837424,Marketing,2014
+18574,Tesco,45356209.0,3.720124894292581,"Supermarkets, food & drugstores",2014
+20402,"Wal-Mart Stores, Inc.",33737323.0,2.651646522868535,"Supermarkets, food & drugstores",2014
+8338,"Hitachi, Ltd.",242622895.0,4.419438260591725,Electrical equipment,2014
+7903,H&M Hennes & Mauritz AB,2206609.0,3.171808196682389,Apparel stores,2014
+11930,Microsoft Corporation,7690839.0,2.5894519117586308,Software,2014
+16339,SAP SE,6935239.0,2.289685116152136,Software,2014
+7166,General Electric Company,148700000.0,4.56201548978699,Industrial machinery,2014
+10294,KPMG UK,41602461.2,5.8659360372848965,Other professional services,2014
+15591,Reckitt Benckiser,34560775.08,2.06130687121124,Personal care & household products,2014
+19829,Unilever plc,65130255.0,4.189435457415351,Personal care & household products,2014
+16837,Shimizu Corporation,17190016.0,2.7583626128055645,Non-residential building construction,2014
+19376,Travis Perkins,6508600.0,3.4546870265266745,"Dealers, wholesalers & distributors",2014
+10156,Kingfisher,11930623.0,2.341920211971595,Specialist retail,2014
+7164,General Motors Company,320990526.0,2.433534133113406,Automobiles,2014
+8566,Honda Motor Company,277871000.0,2.022083314248431,Automobiles,2014
+20309,Volkswagen AG,321208248.0,2.4356116581582063,Automobiles,2014
+16012,Royal Dutch Shell,645678000.0,2.1339400267115605,Oil & gas refining,2014
+4256,"Daiwa House Industry Co., Ltd.",12181052.0,2.84951547472581,Residential building construction,2014
+3564,The Coca-Cola Company,55135423.0,2.8199946523845103,Non-alcoholic beverages,2014
+2656,Canadian National Railway Company,1492054.0,2.3924576909779187,Rail freight,2014
+21159,VESTEL ELEKTRONIK SANAYI VE TICARET A.S.,21442843380.62,4.690340696786636,Electronic equipment,2014
+3329,"Cisco Systems, Inc.",36203260.0,2.064267102287677,Communications equipment,2014
+16191,Samsung Electronics,44360945.0,2.641318106278004,Communications equipment,2014
+32498,Abengoa,4148935.0,3.316542946973219,Engineering services,2014
+8212,Heineken NV,10578231.34,2.908542237977431,Alcoholic beverages,2014
+4826,The Dow Chemical Company,114280000.0,3.71931395417957,Other base chemicals,2014
+21407,Lenovo Group,16195204.0,2.506792451815659,Computer hardware,2014
+13298,Nippon Telegraph & Telephone Corporation (NTT),10043288.0,3.3240230377389617,Telecommunications services,2014
+17073,SK Telecom,11783493.0,3.989637865904203,Telecommunications services,2014
+18427,Telefonica,7004152.0,2.16157724174895,Telecommunications services,2014
+2297,British Land Company,6048911.0,5.422264487443448,REIT,2014
+23576,Sonoco Products Company,355515468.0,3.67470138346102,Plastic products,2014
+10268,Korea Electric Power Corp,653432181.8,4.543394108063483,Electricity networks,2014
+5584,Endesa,35544093.0,3.1618421257262392,0,2014
+3751,ConocoPhillips,215387389.0,3.543583784257995,Oil & gas extraction,2014
+777,Anglo American Platinum,1259666.0,2.988867128498533,Precious metals & minerals mining,2014
+17788,Steelcase,676966.2999999999,2.990145128368952,Furniture,2014
+11063,LVMH,775763.0,2.211993829536009,Apparel & footwear design,2014
+12303,Mitsui O.S.K. Lines Ltd,9959621.86,2.697481345436064,Marine freight,2014
+4212,"Dai Nippon Printing Co., Ltd.",5662000.0,2.449461506105861,Printing services,2015
+4663,Deutsche Post AG,32750000.0,3.2847098050750825,Logistics - 3rd party,2015
+4255,"Daito Trust Construction Co., Ltd.",5747490.8100000005,3.1570037967695472,Real estate services,2015
+18585,TETRA PAK,10527192.0,3.700540436245397,Paper products,2015
+13566,NSK Ltd.,6548797.0,2.632383921832272,Fabricated metal components,2015
+13577,NTN Corporation,6833590.0,2.7722350818842063,Fabricated metal components,2015
+13586,NTT Urban Development Corporation,845613.41,3.45697699859148,Real estate owners & developers,2015
+2096,Bouygues,14079312.0,2.652063174120151,Transportation infrastructure & other construction,2015
+5154,Ecolab Inc.,10331532.0,3.0993954168085263,Commercial services,2015
+14783,Pinnacle West Capital Corporation,403508510.0,3.8234123882473807,CCGT generation,2015
+12291,"Mizuho Financial Group, Inc.",9502138.83,3.030029500541552,Banks,2015
+19794,UniCredit,30213155.0,10.065342942834803,Banks,2015
+8525,LafargeHolcim Ltd,21675746.0,2.903632114092465,Cement,2015
+3253,China Steel Corporation,43729432.39,2.173622659787072,Iron & steel,2015
+3193,Innolux Corporation,229711571.65,2.635652036125104,Electronic components,2015
+21394,Wistron Corp,484344890.7,5.846363118752152,Electronic components,2015
+7156,General Mills Inc.,16991934.0,2.232406459429043,Other food processing,2015
+14605,"PepsiCo, Inc.",17288000.0,2.2804347828940417,Other food processing,2015
+42037,Mondelez International Inc,17267952.0,2.277182562683594,Other food processing,2015
+1581,Bayer AG,33246000.0,4.866952218361373,Pharmaceuticals,2015
+2297,British Land Company,12650465.0,5.540270626252285,REIT,2015
+19242,"Toray Industries, Inc.",77109931.0,2.9071404346562257,Plastic products,2015
+1516,BASF SE,136802000.0,5.399306119679922,Specialty chemicals,2015
+252,Aegon,4846613.0,6.687004338797323,Insurance,2015
+2302,Sky plc,2868967.0,3.4055397973727053,Marketing,2015
+18574,Tesco,45064232.0,3.9315954286793553,"Supermarkets, food & drugstores",2015
+23214,J Sainsbury Plc,26989715.0,2.155724820043464,"Supermarkets, food & drugstores",2015
+1085,Associated British Foods,1582877.0,3.082586408091708,Apparel stores,2015
+10268,Korea Electric Power Corp,665162133.64,4.758240410745529,Electricity networks,2015
+11930,Microsoft Corporation,8903781.0,3.1112131525826188,Software,2015
+16339,SAP SE,7350874.0,2.498864467101285,Software,2015
+14709,Koninklijke Philips NV,139694138.0,3.316570519790512,Medical equipment,2015
+9992,"Kawasaki Heavy Industries, Ltd.",67911773.0,4.653880284196281,Industrial machinery,2015
+1708,"Berry Global Group, Inc",2221188.0,3.4449169838615084,Other containers & packaging,2015
+19829,Unilever plc,69017784.0,4.37330363927541,Personal care & household products,2015
+16837,Shimizu Corporation,16670341.0,2.0640007354091137,Non-residential building construction,2015
+16418,Schlumberger Limited,1191000.0,2.6471599565021915,Energy services & equipment,2015
+13807,Old Mutual Group,35344893.63,4.544860707614641,Asset managers,2015
+19376,Travis Perkins,6291900.0,3.614352646556039,"Dealers, wholesalers & distributors",2015
+10156,Kingfisher,11936272.0,2.649439445917314,Specialist retail,2015
+7164,General Motors Company,373099701.0,2.6413446070447946,Automobiles,2015
+19290,Toyota Motor Corporation,383198000.0,2.731305016436909,Automobiles,2015
+4136,Cummins Inc.,918884285.0,3.133339095288527,Engines & motors,2015
+16012,Royal Dutch Shell,643819000.0,2.3446862009175526,Oil & gas refining,2015
+4256,"Daiwa House Industry Co., Ltd.",12542114.0,3.112978408272152,Residential building construction,2015
+3564,The Coca-Cola Company,54687774.0,3.153256996787469,Non-alcoholic beverages,2015
+4120,CSX Corporation,3122171.0,2.315930552816723,Rail freight,2015
+865,Apple Inc.,35638000.0,2.0329166449202,Communications equipment,2015
+5811,Ericsson,43878000.0,2.6244962526359945,Communications equipment,2015
+32498,Abengoa,3437861.0,3.161975384726325,Engineering services,2015
+10670,LG Electronics,78636726.0,3.19915392113606,Electronic equipment,2015
+14292,Panasonic Corporation,94641000.0,3.9266837514567503,Electronic equipment,2015
+4826,The Dow Chemical Company,104022000.0,3.835104938911657,Other base chemicals,2015
+8212,Heineken NV,10578231.34,3.151212895792117,Alcoholic beverages,2015
+8338,"Hitachi, Ltd.",262994105.0,4.632641601383414,Electrical equipment,2015
+9103,Ingersoll-Rand Co. Ltd.,188883915.66,3.2218327682472805,Electrical equipment,2015
+21407,Lenovo Group,14563660.0,2.289234775466813,Computer hardware,2015
+17073,SK Telecom,36089468.0,6.289366669104151,Telecommunications services,2015
+6874,Fujitsu Ltd.,8124800.0,3.960865246665982,Other professional services,2015
+12903,NEC Corporation,9102120.0,4.481284553963948,Other professional services,2015
+5584,Endesa,26728838.91,3.26207237178982,0,2015
+1857,Biogen Inc.,345217.0,2.5492822297878046,Biotechnology,2015
+3751,ConocoPhillips,215689634.0,3.7049362306381615,Oil & gas extraction,2015
+777,Anglo American Platinum,1322596.0,2.8360784234263705,Precious metals & minerals mining,2015
+19316,Cleanaway Waste Management,1789574.0,2.1264756250261367,Waste management,2015
+22499,Intercontinental Hotels Group,8053772.0,2.3145328507729785,Hotels & lodging,2015
+10234,"Kokuyo Co., Ltd.",498930.23,2.6381802279989546,Furniture,2015
+10227,Korea Gas Corp,99794693.01,2.262161599222964,Gas utilities,2015
+7619,Goodyear Tire & Rubber Company,175238431.22,2.498246698298358,Rubber products,2015
+12303,Mitsui O.S.K. Lines Ltd,8038291.85,2.646371049606506,Marine freight,2015
+8741,ICADE,457744.0,2.0431079796700957,Real estate owners & developers,2016
+13586,NTT Urban Development Corporation,516577.39,2.380136734312289,Real estate owners & developers,2016
+4663,Deutsche Post AG,31850000.0,3.393707233107442,Logistics - 3rd party,2016
+7619,Goodyear Tire & Rubber Company,176643655.0,2.2895779335601967,Rubber products,2016
+20515,"Waste Management, Inc.",9266635.63,2.566830382767148,Waste management,2016
+16012,Royal Dutch Shell,606175000.0,2.173960838498369,Oil & gas refining,2016
+57455,"NIHON KAJITSU KOGYO CO., LTD",201902896.2,3.200903784099664,Non-alcoholic beverages,2016
+10670,LG Electronics,85495611.0,3.5119717656252054,Electronic equipment,2016
+14292,Panasonic Corporation,95753000.0,3.973569848739553,Electronic equipment,2016
+13279,NIKE Inc.,6368851.0,2.217723876628678,Clothing manufacture,2016
+21403,Olam International,22739813.0,2.233190377676585,Food & beverage wholesale,2016
+4255,"Daito Trust Construction Co., Ltd.",5642689.58,3.160682254724989,Real estate services,2016
+1452,Bank of America,3513258.0,3.728450982925201,Asset managers,2016
+9054,Industrivärden,2900055.37,3.0153676630440995,Asset managers,2016
+53,Abertis Infraestructuras,10967663.0,2.3700188196010163,Transportation infrastructure & other construction,2016
+2096,Bouygues,13501720.0,3.043605770646324,Transportation infrastructure & other construction,2016
+19080,thyssenkrupp AG,917117000.0,4.242441897048956,Commercial services,2016
+18585,TETRA PAK,10790476.0,3.998810347898918,Paper products,2016
+64,Abbott Laboratories,7792270.0,2.0471584748311025,Health care supplies,2016
+3042,Centrica,154420533.0,2.5391431135329183,CCGT generation,2016
+7121,ENGIE,175369729.0,2.973870474571812,CCGT generation,2016
+4050,Credit Agricole,160048319.0,10.815790930126695,Banks,2016
+8611,HSBC Holdings plc,33776807.0,2.171455767790452,Banks,2016
+8525,LafargeHolcim Ltd,40015509.0,3.034612002622433,Cement,2016
+11930,Microsoft Corporation,23591081.0,4.006011194350089,Software,2016
+21394,Wistron Corp,388009719.59,7.175743222978024,Electronic components,2016
+14709,Koninklijke Philips NV,112447289.0,4.122983083426233,Medical equipment,2016
+14605,"PepsiCo, Inc.",79397331.0,4.878864198352733,Other food processing,2016
+904,ArcelorMittal,27628952.0,2.393012721644028,Iron & steel,2016
+59134,NATS,24305772.0,2.6361635793887896,Transportation support services,2016
+865,Apple Inc.,32319900.0,2.0747117399311725,Communications equipment,2016
+3329,"Cisco Systems, Inc.",37937824.0,2.522447173990268,Communications equipment,2016
+5811,Ericsson,38096000.0,2.535053432105851,Communications equipment,2016
+1516,BASF SE,122830000.0,5.770187661810786,Specialty chemicals,2016
+252,Aegon,4844762.0,2.6203914146512117,Insurance,2016
+1287,AXA Group,12184947.0,6.928653685041524,Insurance,2016
+2302,Sky plc,2809199.0,3.640052467450912,Marketing,2016
+18574,Tesco,45037295.0,4.27821725166558,"Supermarkets, food & drugstores",2016
+23214,J Sainsbury Plc,24697865.0,2.1337219097763573,"Supermarkets, food & drugstores",2016
+8338,"Hitachi, Ltd.",269179000.0,4.87401512305281,Electrical equipment,2016
+9103,Ingersoll-Rand Co. Ltd.,162464167.0,2.791493109501562,Electrical equipment,2016
+7903,H&M Hennes & Mauritz AB,16178117.0,3.815368710106119,Apparel stores,2016
+10268,Korea Electric Power Corp,448317397.0,4.618029267564784,Electricity networks,2016
+21407,Lenovo Group,14572794.0,2.792782345376907,Computer hardware,2016
+13298,Nippon Telegraph & Telephone Corporation (NTT),16767484.0,3.5608852886438704,Telecommunications services,2016
+20175,Verizon Communications Inc.,23451321.0,5.159355373096517,Telecommunications services,2016
+9992,"Kawasaki Heavy Industries, Ltd.",54324090.0,5.025640971994863,Industrial machinery,2016
+1708,"Berry Global Group, Inc",3862000.0,3.7552458455827176,Other containers & packaging,2016
+15132,Procter & Gamble Company,209305000.0,4.989659878564651,Personal care & household products,2016
+18266,Taisei Corporation,28750043.0,3.7512218891541127,Non-residential building construction,2016
+1356,"Baker Hughes, a GE Company",251861.0,2.053101837113292,Energy services & equipment,2016
+19376,Travis Perkins,8181310.0,2.2963376096395685,"Dealers, wholesalers & distributors",2016
+20593,Wesco International,11589883.0,3.416366051297885,"Dealers, wholesalers & distributors",2016
+10156,Kingfisher,11916912.0,3.107604625296174,Specialist retail,2016
+7164,General Motors Company,347251325.0,2.3974991839470325,Automobiles,2016
+19290,Toyota Motor Corporation,369226000.0,2.596569619872575,Automobiles,2016
+20309,Volkswagen AG,315574666.0,2.1105376559246727,Automobiles,2016
+13566,NSK Ltd.,6538612.0,2.593994387047517,Fabricated metal components,2016
+17673,"Stanley Black & Decker, Inc.",7119435.0,2.8759001012127023,Fabricated metal components,2016
+4136,Cummins Inc.,811940700.0,2.9623381294450364,Engines & motors,2016
+3751,ConocoPhillips,223978460.0,3.834658090713853,Oil & gas extraction,2016
+777,Anglo American Platinum,1484030.0,2.8900373846953067,Precious metals & minerals mining,2016
+17556,Spirax-Sarco Engineering,4400000.0,2.6599571947051697,Engineering services,2016
+32498,Abengoa,4075808.0,2.434640914181943,Engineering services,2016
+4826,The Dow Chemical Company,100380000.0,4.008538529017247,Other base chemicals,2016
+10056,Kellogg Company,5667464.0,2.6428107807263923,Baked goods & cereals,2016
+8212,Heineken NV,11787871.0,3.420365770936274,Alcoholic beverages,2016
+1581,Bayer AG,36523000.0,2.1635100968518723,Pharmaceuticals,2016
+2191,Bristol-Myers Squibb,77995200.0,5.020245014733118,Pharmaceuticals,2016
+9712,Japan Tobacco Inc.,5621340.0,2.079787216558713,Tobacco products,2016
+2297,British Land Company,3802710.0,5.455476024359745,REIT,2016
+10205,Klepierre,1571752.0,2.0585879257776867,REIT,2016
+19242,"Toray Industries, Inc.",89122776.0,3.005941458205976,Plastic products,2016
+12379,Moody's Corporation,20935572.0,6.063968943659724,Other professional services,2016
+12903,NEC Corporation,9289811.0,2.5179004783853274,Other professional services,2016
+5584,Endesa,20519612.200000003,2.87543808347363,0,2016
+16072,"Ryder System, Inc.",8644336.0,2.6139399091588165,Vehicles & machinery rental & leasing,2016
+17788,Steelcase,31957511.0,2.826778405850705,Furniture,2016
+10227,Korea Gas Corp,99299688.93,2.2466322961671548,Gas utilities,2016
+12303,Mitsui O.S.K. Lines Ltd,7305607.77,2.4203557346271185,Marine freight,2016
+4256,"Daiwa House Industry Co., Ltd.",10793920.0,3.240328297025843,Residential building construction,2016
+4212,"Dai Nippon Printing Co., Ltd.",5598000.0,2.272448462388032,Printing services,2016
+52262,Gefco,1803875.36,2.072682822688605,Logistics - transport,2016
+13279,NIKE Inc.,6927261.0,2.324657560897541,Clothing manufacture,2017
+4151,CVS Health,2609590.0,2.820887998580293,Health care services,2017
+3420,City Developments Limited,929132.0,2.937958608600266,Real estate owners & developers,2017
+4663,Deutsche Post AG,30000000.0,3.6004685726201044,Logistics - 3rd party,2017
+20055,Vallourec,1931914.0,2.2108717317695845,Metal processing,2017
+1812,Bic,447700.0,2.3038756510592187,Homeware,2017
+7164,General Motors Company,320894122.0,2.3404915264496573,Automobiles,2017
+8566,Honda Motor Company,302365341.0,2.1624485930733552,Automobiles,2017
+19290,Toyota Motor Corporation,367795669.0,2.791168179585473,Automobiles,2017
+20309,Volkswagen AG,327983298.0,2.4086113714767468,Automobiles,2017
+4136,Cummins Inc.,804503800.0,3.4478355499641213,Engines & motors,2017
+16012,Royal Dutch Shell,653160000.0,2.7041078227119164,Oil & gas refining,2017
+7619,Goodyear Tire & Rubber Company,171649429.0,2.1377818229144445,Rubber products,2017
+3564,The Coca-Cola Company,55363118.0,3.299889473185274,Non-alcoholic beverages,2017
+10670,LG Electronics,74650700.0,3.3567041655733942,Electronic equipment,2017
+14292,Panasonic Corporation,79576700.0,3.6024723673955,Electronic equipment,2017
+13807,Old Mutual Group,59661203.0,5.26664310347211,Asset managers,2017
+53,Abertis Infraestructuras,17373046.0,3.411687872404324,Transportation infrastructure & other construction,2017
+2096,Bouygues,12206781.0,2.244970047850604,Transportation infrastructure & other construction,2017
+19080,thyssenkrupp AG,917117000.0,4.690327348831057,Commercial services,2017
+18585,TETRA PAK,11253722.0,4.266767763368914,Paper products,2017
+58295,WestRock Company,8475290.0,3.1161774576795773,Paper products,2017
+64,Abbott Laboratories,8031000.0,2.084544680534026,Health care supplies,2017
+31735,Korea District Heating Corp.,8529138684.0,5.65352133029747,CCGT generation,2017
+4050,Credit Agricole,160066876.0,10.94549901219546,Banks,2017
+8611,HSBC Holdings plc,34297271.0,2.237596990211344,Banks,2017
+8525,LafargeHolcim Ltd,33896142.0,3.2706013531962363,Cement,2017
+11329,"Marriott International, Inc.",5026405.0,2.050554741144942,Hotels & lodging,2017
+52935,Korea South-East Power,1727471642.0,5.021480670881563,Electricity networks,2017
+11930,Microsoft Corporation,23322304.0,3.486479436499983,Software,2017
+336,Advanced Semiconductor Engineering,1463898.0,2.4494765975696704,Industrial services,2017
+16072,"Ryder System, Inc.",8900719.0,2.688581669289805,Vehicles & machinery rental & leasing,2017
+14709,Koninklijke Philips NV,103422954.0,4.241442675245535,Medical equipment,2017
+14605,"PepsiCo, Inc.",62817971.0,4.735993299552803,Other food processing,2017
+399,"Aisin Seiki Co., Ltd.",13031003.0,4.185372374836339,Fabricated metal components,2017
+17673,"Stanley Black & Decker, Inc.",9109756.0,2.7956830657901013,Fabricated metal components,2017
+18344,Tata Steel,27491043.0,2.3224093897570333,Iron & steel,2017
+57666,AENA SA,4260437.0,2.220505073209157,Transportation support services,2017
+5811,Ericsson,42353500.0,2.0556308177498805,Communications equipment,2017
+13360,Nokia Group,45642400.0,2.256102024464312,Communications equipment,2017
+16191,Samsung Electronics,52173000.0,2.654167414889458,Communications equipment,2017
+16794,Sharp Corporation,27726000.0,3.2236228111725045,Electronic components,2017
+19197,Toshiba Corporation,55568100.0,6.754504777468481,Electronic components,2017
+1516,BASF SE,133203000.0,5.451248407241141,Specialty chemicals,2017
+13521,Novozymes A/S,69488734.0,2.662594930291748,Specialty chemicals,2017
+11796,"MetLife, Inc.",7697256.0,6.219802080885139,Insurance,2017
+16563,Scor SE,5787976.0,4.61469364867127,Insurance,2017
+2302,Sky plc,2586281.0,3.639700536236534,Marketing,2017
+44164,Bertelsmann,1580400.0,2.0392523113884127,Marketing,2017
+18574,Tesco,60019704.0,3.540091001787196,"Supermarkets, food & drugstores",2017
+20402,"Wal-Mart Stores, Inc.",51646616.0,2.978754164932058,"Supermarkets, food & drugstores",2017
+4226,"Daikin Industries, Ltd.",196690787.85,3.723392256893882,Electrical equipment,2017
+8338,"Hitachi, Ltd.",119950000.0,2.1106991769425023,Electrical equipment,2017
+9103,Ingersoll-Rand Co. Ltd.,213861950.0,4.084240967857801,Electrical equipment,2017
+7903,H&M Hennes & Mauritz AB,16899570.0,3.777934533025475,Apparel stores,2017
+17556,Spirax-Sarco Engineering,4400000.0,3.7413547478203455,Engineering services,2017
+4826,The Dow Chemical Company,76350000.0,4.0978867264950125,Other base chemicals,2017
+12141,Mitsubishi Chemical Holdings Corporation,55006000.0,2.7948116466904334,Other base chemicals,2017
+10056,Kellogg Company,8682584.0,2.8279005538650464,Baked goods & cereals,2017
+22350,Anheuser Busch InBev,17812391.0,2.9442715608032777,Alcoholic beverages,2017
+58858,HP Inc,40060000.0,2.952925251823792,Computer hardware,2017
+31497,CenturyLink,82802261.0,7.193182018896528,Telecommunications services,2017
+9992,"Kawasaki Heavy Industries, Ltd.",58126683.0,3.0162097396729712,Industrial machinery,2017
+51086,Valmet,84385875.0,4.532654092693515,Industrial machinery,2017
+4255,"Daito Trust Construction Co., Ltd.",5100868.1,3.308036884804248,Real estate services,2017
+64623,Askul,1375540.0,2.141959933464778,Discretionary delivery retail,2017
+20205,Vinci,14369443.0,3.3031604954042155,Non-residential building construction,2017
+8526,"The Home Depot, Inc.",56133970.0,3.073621474609176,Specialist retail,2017
+1708,"Berry Global Group, Inc",5410500.0,4.267989369032909,Other containers & packaging,2017
+1328,Ball Corporation,11172284.0,2.6224330260169286,Metal containers & packaging,2017
+5584,Endesa,19978685.0,3.437876665472718,0,2017
+19376,Travis Perkins,8008802.46,4.202099520824537,"Dealers, wholesalers & distributors",2017
+15132,Procter & Gamble Company,209688157.0,4.976885957179676,Personal care & household products,2017
+3751,ConocoPhillips,223816670.0,4.064067452166008,Oil & gas extraction,2017
+777,Anglo American Platinum,1222308.0,2.327157150231997,Precious metals & minerals mining,2017
+49682,Sibanye Gold Ltd,1189818.0,2.2438496902355296,Precious metals & minerals mining,2017
+13849,Oneok Inc.,47500000.0,2.2313670533308603,Oil & gas pipelines & storage,2017
+2191,Bristol-Myers Squibb,184376386.0,5.949845789469348,Pharmaceuticals,2017
+9712,Japan Tobacco Inc.,5799037.0,2.360920208255108,Tobacco products,2017
+21722,Mercialys,667672475.6,6.244717538102289,REIT,2017
+19242,"Toray Industries, Inc.",103015245.0,3.9147250920927545,Plastic products,2017
+6874,Fujitsu Ltd.,7808633.0,3.533620335111087,Other professional services,2017
+10294,KPMG UK,10389283.5,4.829769150500912,Other professional services,2017
+12903,NEC Corporation,7405400.0,3.3310938886681902,Other professional services,2017
+17041,Siliconware Precision Industries Co.,3100480292.11,2.828423940427188,Semiconductors,2017
+55588,Transportadora Contatto Ltda,41614.0,2.772775414814907,Road freight,2017
+15911,ROCKWOOL International A/S,155003937.0,2.3681307610649824,Other non-wood building materials,2017
+41143,Deutsche Bahn AG,12470968.0,2.209076061337269,Passenger rail,2017
+12303,Mitsui O.S.K. Lines Ltd,7935457.97,2.4798127012457023,Marine freight,2017
+17788,Steelcase,1301026.0,2.422399782876101,Furniture,2017
+52262,Gefco,1771760.0,2.1590615408043923,Logistics - transport,2017
+20515,"Waste Management, Inc.",8384808.33,2.407515066985396,Waste management,2017
+13316,NH Foods Ltd.,9716599.0,2.548789727631321,Animal processing,2017
+4256,"Daiwa House Industry Co., Ltd.",12582426.0,3.372644801289876,Residential building construction,2017
+4212,"Dai Nippon Printing Co., Ltd.",5278600.0,2.349512284219135,Printing services,2017
+830305,NINGBO MERRYART GLOW-TECH CO LTD,2002024.0,2.1636770381748844,Toys & games,2018
+4255,"Daito Trust Construction Co., Ltd.",4918521.83,2.460097399778729,Real estate services,2018
+8566,"Honda Motor Co., Ltd.",314067700.0,2.268202681212127,Automobiles,2018
+19290,Toyota Motor Corporation,401742000.0,3.0948841349767133,Automobiles,2018
+20309,Volkswagen AG,340767244.0,2.5199528274781544,Automobiles,2018
+22520,Bolloré SA,4773823.0,2.2613605040472464,Logistics - transport,2018
+19238,Toppan Inc.,6121755.0,2.232342068760064,Printing services,2018
+13316,NH Foods Ltd.,10093292.0,2.815450373880441,Animal processing,2018
+7619,The Goodyear Tire & Rubber Company,166811224.0,2.053940601326244,Rubber products,2018
+3564,The Coca-Cola Company,56591846.0,3.428189905544799,Non-alcoholic beverages,2018
+21858,Formosa Taffeta Co.,14203770.84,2.235568060613958,Textiles,2018
+10056,Kellogg Company,15472251.0,2.828268199755198,Baked goods & cereals,2018
+1356,Baker Hughes Company,208476.0,2.37584296303703,Energy services & equipment,2018
+20205,VINCI,16122812.0,3.876602642671303,Non-residential building construction,2018
+21403,Olam International,64356316.0,2.347177264390162,Food & beverage wholesale,2018
+4256,"Daiwa House Industry Co., Ltd.",12934776.43,3.3131175590112565,Residential building construction,2018
+8526,"The Home Depot, Inc.",319256806.0,3.5964098644668696,Specialist retail,2018
+13807,Old Mutual Group,36623582.0,5.10034793507707,Asset managers,2018
+1516,BASF SE,130523000.0,5.711801979816862,Specialty chemicals,2018
+13521,Novozymes A/S,76516879.0,3.1979938727131656,Specialty chemicals,2018
+276,A.P. Moller - Maersk,17651300.0,2.6241592760306145,Marine freight,2018
+3042,Centrica,131237144.0,2.6368069031234715,CCGT generation,2018
+7121,ENGIE,189458315.0,4.078154696690399,CCGT generation,2018
+4050,Credit Agricole,160068803.0,9.391910327500606,Banks,2018
+8611,HSBC Holdings plc,53725478.0,3.026536976798624,Banks,2018
+17320,Société Générale,92366481.0,5.339464569955932,Banks,2018
+4226,"Daikin Industries, Ltd.",264171923.0,2.7978536458141017,Electrical equipment,2018
+9103,Trane Technologies,283796779.0,3.034723563814824,Electrical equipment,2018
+32334,Signify N.V.,472993656.0,5.318309682407632,Electrical equipment,2018
+34285,"Wolfspeed, Inc.",215054445.0,2.205010927056711,Electrical equipment,2018
+64,Abbott Laboratories,7600000.0,2.26468014008612,Health care supplies,2018
+7374,GlaxoSmithKline,17896835.0,3.435644386690352,Pharmaceuticals,2018
+9829,Johnson & Johnson,12369774.0,2.177083490597023,Pharmaceuticals,2018
+15841,Roche Holding AG,12640666.0,2.2387680057967856,Pharmaceuticals,2018
+7060,Gap Inc.,17733517.0,2.4160230308946358,Apparel stores,2018
+7903,H&M Hennes & Mauritz AB,18215438.0,2.495287099994928,Apparel stores,2018
+53,Abertis Infraestructuras,21200110.0,4.03817390808233,Transportation infrastructure & other construction,2018
+2096,Bouygues,14464111.0,2.602725876994179,Transportation infrastructure & other construction,2018
+11930,Microsoft Corporation,21254260.0,3.6143146082289968,Software,2018
+59134,NATS Holdings Limited,14642585.0,3.024593683268828,Transportation support services,2018
+1106,ASUSTeK Computer Inc,164739482.0,3.4822514318070965,Computer hardware,2018
+10670,LG Electronics,79831868.0,2.763050276531042,Electronic equipment,2018
+10787,Lite-On Technology Corporation,104762837.13,3.744461164156604,Electronic equipment,2018
+14292,Panasonic Corporation,80996900.0,2.8089119148520463,Electronic equipment,2018
+3310,Cia. Brasileira de Distribuicao (CBD) Grupo Pao de Acucar,130900617456.0,5.385120151954904,"Supermarkets, food & drugstores",2018
+4151,CVS Health,2618841.0,3.1544229326431568,Health care services,2018
+34776,CONCREMAT ENGENHARIA E TECNOLOGIA S.A,1932074.0,3.604668315568396,Engineering services,2018
+19080,thyssenkrupp AG,836730000.0,3.312708230811182,Commercial services,2018
+60941,CENTRAL NAC UNIMED COOP CENTRA,838519590.0,3.3204412265002103,Commercial services,2018
+10629,Legal and General,22000003512.9,7.745958482717112,Insurance,2018
+13117,Newmont Corporation,2386563.0,2.846415508608992,Precious metals & minerals mining,2018
+49682,Sibanye Stillwater,1967691.0,2.208421052817697,Precious metals & minerals mining,2018
+16794,Sharp Corporation,32405000.0,4.37718465968613,Electronic components,2018
+19197,Toshiba Corporation,47420000.0,6.545117015311826,Electronic components,2018
+8525,Holcim Ltd.,22820678.96,2.486101149470307,Cement,2018
+1149,Atos SE,4722169.0,2.9262578282462064,Other professional services,2018
+6874,Fujitsu Limited,6278000.0,4.051206265691932,Other professional services,2018
+12903,NEC Corporation,5821000.0,3.7207709961075777,Other professional services,2018
+8348,"Hilton Worldwide, Inc.",5499488.0,2.2490259663617143,Hotels & lodging,2018
+9834,JSW Steel Ltd.,66269480.0,3.424355017940174,Iron & steel,2018
+336,"ASE Technology Holding Co., Ltd.",4959462.0,2.828372241259995,Industrial services,2018
+5811,Ericsson,37038500.0,2.16959652239788,Communications equipment,2018
+13360,Nokia Group,42660700.0,2.572348736917702,Communications equipment,2018
+16191,Samsung Electronics,51979885.0,3.239938363090713,Communications equipment,2018
+10227,Korea Gas Corp,100008576.9,2.543127711463134,Gas utilities,2018
+10268,Korea Electric Power Corp,491660293.0,5.46282006526577,Electricity networks,2018
+44677,Ivanhoe Mines,101731602.0,3.949342606433855,0,2018
+20883,Yamaha Corporation,1112545.0,2.4730503001938957,Homeware,2018
+64623,Askul Corporation,1311438.01,2.2224738875854007,Discretionary delivery retail,2018
+21683,Vanguard International Semiconductor Corporation,76298658.86999999,2.976236149600423,Semiconductors,2018
+15132,Procter & Gamble Company,210173353.0,5.04750968189184,Personal care & household products,2018
+13425,Norfolk Southern Corp.,10310690.93,2.1853964667757597,Rail freight,2018
+22350,Anheuser Busch InBev,25956802.0,3.516833133300531,Alcoholic beverages,2018
+13849,Oneok Inc.,49600000.0,2.6429182988096045,Oil & gas pipelines & storage,2018
+1708,"Berry Global Group, Inc",5469000.0,3.956154937640559,Other containers & packaging,2018
+4136,Cummins Inc.,1005311900.0,3.820521719315349,Engines & motors,2018
+11085,LyondellBasell Industries N.V.,241431500.0,2.587127224417684,Other base chemicals,2018
+55981,Sabará Participações Ltda,415510850.0,4.716701914356209,Other base chemicals,2018
+9352,International Paper Company,20107112.0,3.65765785398138,Paper products,2018
+44303,Asia Pulp & Paper,17130985.0,3.047632172845176,Paper products,2018
+70158,Empalsa,12939629.0,2.18851735725286,Paper products,2018
+399,Aisin Corporation,18708348.63,3.8650911727448105,Fabricated metal components,2018
+17673,"Stanley Black & Decker, Inc.",15031789.0,3.015012113349653,Fabricated metal components,2018
+2611,Campbell Soup Company,4971215370.0,5.4766864921539815,Other food processing,2018
+3751,ConocoPhillips,189082589.0,3.919528699816953,Oil & gas extraction,2018
+58298,South32,124738078.0,2.3432157976445014,Aluminium refining,2018
+4667,Deutsche Telekom AG,16307523.0,2.709342765909604,Telecommunications services,2018
+13298,Nippon Telegraph & Telephone Corporation (NTT),17161251.0,2.873263627540563,Telecommunications services,2018
+20175,Verizon Communications Inc.,30254507.14,5.387246802537342,Telecommunications services,2018
+20316,Vodafone Group,13361000.0,2.1435927975643705,Telecommunications services,2018
+19266,Toto Ltd.,20853885.0,3.147618891053203,Plastic products,2018
+19582,Johnson Controls International plc,28571800.0,4.4358650741300085,Plastic products,2018
+50074,News Corp,679477.0,2.2303319634956416,Print publishing,2018
+2297,British Land Company,3763313.0,4.6371670797101805,REIT,2018
+19789,Unibail-Rodamco-Westfield,2055018.0,2.291455077771225,REIT,2018
+16151,Saint-Gobain,13280000.0,2.2170207310447143,Glass products,2018
+14709,Koninklijke Philips NV,35203256.0,4.460102457046514,Medical equipment,2018
+12942,Nestlé,106926005.0,2.554897446476094,Dairy & egg products,2018
+4663,Deutsche Post DHL Group,31600000.0,2.1949276031228204,Logistics - 3rd party,2018
+20878,"Yamato Holdings Co., Ltd.",44393802.95,3.285175737815087,Logistics - 3rd party,2018
+15779,Rexel,36145828.0,5.163461596953659,"Dealers, wholesalers & distributors",2018
+2302,Sky Ltd,1702960.0,2.335492133732001,Marketing,2018
+7616,"Alphabet, Inc.",2719023.0,3.976058876786718,Marketing,2018
+44164,Bertelsmann,1576700.0,2.1316288329543047,Marketing,2018
+37400,Evonik Industries AG,20334640.0,2.195904459958696,Inorganic base chemicals,2018
+9992,"Kawasaki Heavy Industries, Ltd.",93365796.0,4.375357111365124,Industrial machinery,2018
+51086,Valmet,84777175.0,3.9432114442428974,Industrial machinery,2018
+15911,ROCKWOOL International A/S,199719334.0,2.698255651708826,Other non-wood building materials,2018
+22231,"TS Tech Co.,Ltd.",3635943.0,2.572523318464732,Furniture,2018
+20515,"Waste Management, Inc.",11009350.0,2.4050400151767093,Waste management,2018
+16012,Royal Dutch Shell,665592000.0,2.609971632028285,Oil & gas refining,2018
+41143,Deutsche Bahn AG,13252185.0,2.215571513290006,Passenger rail,2018
+30591,Epic Designers,31820305.64,2.1386968492818785,Clothing manufacture,2018
+8054,Caesars Entertainment,1840384.0,2.337379087269497,Gambling,2018
+3420,City Developments Limited,425980.8000000001,2.1875174948230067,Real estate owners & developers,2018
+52920,Canary Wharf Group Plc,417039.0,2.1280318958023896,Real estate owners & developers,2018
+16072,"Ryder System, Inc.",10205712.0,2.427587256819189,Vehicles & machinery rental & leasing,2018
+48503,North Denmark,236161.0,2.14189630665481,Consumer services,2018
+21403,Olam International,68432845.0,2.695825207137273,Food & beverage wholesale,2019
+4256,"Daiwa House Industry Co., Ltd.",12231787.14,3.095341072388271,Residential building construction,2019
+13826,Oji Holdings Corporation,5514387.0,2.5881259811085227,Paper packaging,2019
+8566,"Honda Motor Co., Ltd.",310718300.0,2.4030989650625907,Automobiles,2019
+19290,Toyota Motor Corporation,412014600.0,3.375485136894514,Automobiles,2019
+20309,Volkswagen AG,427972277.0,3.5286696505377595,Automobiles,2019
+8526,"The Home Depot, Inc.",317875090.0,2.523767399625495,Specialist retail,2019
+11017,"Lowe's Companies, Inc.",342642973.0,2.752686766942655,Specialist retail,2019
+4136,Cummins Inc.,815798900.0,3.7005928813163527,Engines & motors,2019
+4826,The Dow Chemical Company,85136883.0,3.451252287697009,Other base chemicals,2019
+41275,SABIC,71021982.0,2.769553565151432,Other base chemicals,2019
+13367,Nisshin Seifun Group Inc.,158240471.55,3.450576692912887,Baked goods & cereals,2019
+7264,"Genpact International, LLC",50049.4,2.2449486013297184,IT services,2019
+9992,"Kawasaki Heavy Industries, Ltd.",133243948.0,5.067417255291813,Industrial machinery,2019
+22258,Ebara Corporation,59448909.0,2.087017205177991,Industrial machinery,2019
+51086,Valmet,85141600.0,3.1246817769652484,Industrial machinery,2019
+9843,JLL,13823580.0,2.991756042581152,Real estate services,2019
+4122,CTCI Corp (Holdings),28889226.0,3.4116528531152586,Non-residential building construction,2019
+20205,VINCI,23520956.0,2.6708897090537467,Non-residential building construction,2019
+1452,Bank of America,4819113.0,3.430455103969984,Asset managers,2019
+9054,Industrivärden,4127030.03,2.881765097885862,Asset managers,2019
+37134,Van Lanschot Kempen NV,3861792.0,2.671481847751214,Asset managers,2019
+1017,Ashland Global Holdings Inc,1327015000.0,6.946287541431952,Specialty chemicals,2019
+276,A.P. Moller - Maersk,20764827.0,3.220494747548173,Marine freight,2019
+31735,Korea District Heating Corp.,10581065361.0,6.2437345768149255,CCGT generation,2019
+8611,HSBC Holdings plc,2069998179.85,12.15793838466024,Banks,2019
+4226,"Daikin Industries, Ltd.",331342243.03000003,3.4360071431120702,Electrical equipment,2019
+9103,Trane Technologies,291433338.0,2.965814789841407,Electrical equipment,2019
+32334,Signify N.V.,378089563.0,3.9867672396185543,Electrical equipment,2019
+34285,"Wolfspeed, Inc.",220049317.0,2.1247939501395465,Electrical equipment,2019
+1574,Baxter International Inc.,4614000.0,2.0549655748856503,Health care supplies,2019
+2191,Bristol-Myers Squibb,17142372.0,2.785008027604297,Pharmaceuticals,2019
+7374,GlaxoSmithKline,18152838.0,2.98085913566335,Pharmaceuticals,2019
+9829,Johnson & Johnson,19599200.0,3.2611967228305674,Pharmaceuticals,2019
+6161,"Fast Retailing Co., Ltd.",13459252.83,2.0732515315128723,Apparel stores,2019
+7903,H&M Hennes & Mauritz AB,18387567.0,3.0298184280265383,Apparel stores,2019
+53,Abertis Infraestructuras,20900955.19,3.657300087721645,Transportation infrastructure & other construction,2019
+2096,Bouygues,13871390.0,2.254056616094924,Transportation infrastructure & other construction,2019
+59134,NATS Holdings Limited,14635162.0,2.549176281696147,Transportation support services,2019
+16794,Sharp Corporation,31384286.0,4.116454645333592,Electronic components,2019
+18366,TDK Corporation,22162308.0,2.806468788646698,Electronic components,2019
+19197,Toshiba Corporation,49819500.0,6.7351845539276285,Electronic components,2019
+1106,ASUSTeK Computer Inc,155268977.0,2.997564881368457,Computer hardware,2019
+10670,LG Electronics,42555177.0,2.810971730178974,Electronic equipment,2019
+14292,Panasonic Corporation,77178100.0,5.361382645455562,Electronic equipment,2019
+2880,Carrefour,94282245.0,2.1650423828678917,"Supermarkets, food & drugstores",2019
+20402,"Walmart, Inc.",184474411.0,4.638018369445189,"Supermarkets, food & drugstores",2019
+14709,Koninklijke Philips NV,34968518.0,4.792854046115223,Medical equipment,2019
+13097,Nexans,228133934.13,3.978312121341672,Fabricated metal components,2019
+15854,Robert Bosch GmbH,332270000.0,5.897649872880462,Fabricated metal components,2019
+19080,thyssenkrupp AG,835200000.0,4.690250146839269,Commercial services,2019
+252,Aegon,6068814.0,2.009497258241304,Insurance,2019
+11796,"MetLife, Inc.",7135183.64,2.4240320542589813,Insurance,2019
+23140,OP Financial Group,10006139.0,3.5400717930998744,Insurance,2019
+53612,NN Group NV,15781239.0,5.785053092906655,Insurance,2019
+8207,HeidelbergCement AG,22936728.0,2.258341929696538,Cement,2019
+8525,Holcim Ltd.,21476362.0,2.0660742917559065,Cement,2019
+21368,Amdocs Ltd,36889570.940000005,7.106720771488733,Other professional services,2019
+11329,"Marriott International, Inc.",8935336.0,2.7441792388001605,Hotels & lodging,2019
+40410,"Schnitzer Steel Industries, Inc.",71326654.15,2.7024958263160035,Iron & steel,2019
+3329,"Cisco Systems, Inc.",39520558.0,2.533922181550533,Communications equipment,2019
+13360,Nokia Group,44676400.0,2.926952865246267,Communications equipment,2019
+16191,Samsung Electronics,38234000.0,2.435847653596764,Communications equipment,2019
+11930,Microsoft Corporation,17834520.0,2.621827077669049,Software,2019
+64620,Dell Technologies,17642626.0,2.588514521260255,Software,2019
+4089,Crown Holdings,12772679.0,2.4922440991009607,Metal containers & packaging,2019
+10268,Korea Electric Power Corp,505505222.0,5.644980002737268,Electricity networks,2019
+21115,ARÇELİK A.Ş.,31041461.0,3.888566254140736,0,2019
+53647,Zalando SE,2868121.0,2.3628486060983147,Discretionary delivery retail,2019
+10632,Lerøy Seafood Group,436789980.0,4.557895633073335,"Dealers, wholesalers & distributors",2019
+839790,VIETHUNG PACKAGING CO LTD,5700000.0,3.078379364219758,Biotechnology,2019
+1812,Bic,1699700.0,2.2422823480620693,Homeware,2019
+15132,Procter & Gamble Company,210175353.0,5.06997527866014,Personal care & household products,2019
+840012,Kioxia Holdings Corporation,4636865.0,2.0941704599171995,Semiconductors,2019
+22350,Anheuser Busch InBev,24431839.0,3.2431522429374757,Alcoholic beverages,2019
+46817,"SHYA HSIN PACKAGING INDUSTRY(CHINA)CO.,LTD.",74161227.75,5.153626080276319,Other containers & packaging,2019
+4151,CVS Health,12271483.340000002,2.997781307203944,Health care services,2019
+9352,International Paper Company,16882780.0,4.3831021360267215,Paper products,2019
+18585,TETRA PAK,11702097.0,2.908295725549856,Paper products,2019
+58295,WestRock Company,9619681.01,2.3154857714701462,Paper products,2019
+4667,Deutsche Telekom AG,14084992.0,3.519188104958193,Telecommunications services,2019
+13298,Nippon Telegraph & Telephone Corporation (NTT),17097828.0,4.376120192955753,Telecommunications services,2019
+20316,Vodafone Group,12875099.0,3.1750617951478914,Telecommunications services,2019
+7616,"Alphabet, Inc.",14279467.0,4.764120181831619,Marketing,2019
+19266,Toto Ltd.,19215947.0,3.0158296745526947,Plastic products,2019
+19582,Johnson Controls International plc,27827200.0,4.546140602667706,Plastic products,2019
+838300,"INTOPS CO.,LTD.",18937325.0,2.966315592059327,Plastic products,2019
+13117,Newmont Corporation,6437210.899999999,3.518665938570594,Precious metals & minerals mining,2019
+45126,Kilroy Realty,1395605832.72,6.633225454738572,REIT,2019
+10227,Korea Gas Corp,112830025.18,2.6150190351165232,Gas utilities,2019
+2269,British American Tobacco,8254292.84,2.05112865496392,Tobacco products,2019
+3876,Ingredion Incorporated,4433869.0,2.235861703797389,Grain & corn milling,2019
+4663,Deutsche Post DHL Group,33200000.0,2.990021105654639,Logistics - 3rd party,2019
+20878,"Yamato Holdings Co., Ltd.",24097540.24,2.025197856027209,Logistics - 3rd party,2019
+660,American Airlines Group Inc,24780975.0,2.6435869181173306,Passenger airlines,2019
+19569,United Airlines Holdings,20784534.0,2.104128464629201,Passenger airlines,2019
+17013,Showa Denko K.K.,62239790.0,2.5053992952212734,Inorganic base chemicals,2019
+2611,Campbell Soup Company,4971212890.0,5.915434216211273,Other food processing,2019
+3751,ConocoPhillips,180178957.0,3.8130289230469057,Oil & gas extraction,2019
+16398,SBM Offshore,287596825.0,3.3166217408415943,Energy services & equipment,2019
+16072,"Ryder System, Inc.",10677429.0,3.4072172146803785,Vehicles & machinery rental & leasing,2019
+6263,Faurecia,23030000.0,3.706622191701338,Furniture,2019
+38124,SAIFU CHEMICAL DEVELOPMENT CO,162012653.71,2.780487121100168,Other non-wood building materials,2019
+17873,Suez,48292326.0,2.0999150059056526,Water supply networks,2019
+20515,"Waste Management, Inc.",11205434.16,2.3229020995518423,Waste management,2019
+19238,Toppan Inc.,5799118.0,2.0774693753204394,Printing services,2019
+12942,Nestlé,107411104.0,2.3470494470940584,Dairy & egg products,2019
+11876,MGM Resorts International,2712773.0,2.134514230629731,Gambling,2019
+32067,SM Prime Hldgs,2334037.98,4.154943501938894,Real estate owners & developers,2019
+10239,Komatsu Ltd.,29767000.0,2.0494591902542854,"Agriculture, construction & mining machinery",2019
+840513,Sateri,4074440.74,2.773526085050499,Textiles,2019
+16012,Royal Dutch Shell,697234000.0,2.6676302299226924,Oil & gas refining,2019
+38043,Luis Simoes,34941448.58,2.79540974938472,Logistics - transport,2019
+13316,NH Foods Ltd.,10948186.0,2.2302848341221178,Animal processing,2019
+3564,The Coca-Cola Company,55127638.0,3.429534102927473,Non-alcoholic beverages,2019
+4136,Cummins Inc.,931909600.0,4.998872429086442,Engines & motors,2020
+4826,The Dow Chemical Company,91421957.0,2.474292306725718,Other base chemicals,2020
+35462,Formosa Plastics Corp,141277256.0,4.118978789693638,Other base chemicals,2020
+41275,SABIC,107620000.0,3.0086528041451226,Other base chemicals,2020
+46817,"SHYA HSIN PACKAGING INDUSTRY(CHINA)CO.,LTD.",74161227.75,5.21461050073355,Other containers & packaging,2020
+13367,Nisshin Seifun Group Inc.,159202049.14,3.155811295324002,Baked goods & cereals,2020
+3229,China Mobile,36595112.14,5.986726254836412,Telecommunications services,2020
+13298,Nippon Telegraph & Telephone Corporation (NTT),21093851.0,3.2714000299313595,Telecommunications services,2020
+20175,Verizon Communications Inc.,17064736.0,2.5656276721954185,Telecommunications services,2020
+9992,"Kawasaki Heavy Industries, Ltd.",121280378.0,3.389367283571094,Industrial machinery,2020
+22216,Danieli & C Officine Meccaniche S.p.A.,153457708.0,4.383500395820815,Industrial machinery,2020
+22258,Ebara Corporation,82454371.0,2.1898202989350337,Industrial machinery,2020
+51086,Valmet,85765304.0,2.292113066164021,Industrial machinery,2020
+29979,Fruit of the Loom,2632139.0,2.9393735758263837,Textiles,2020
+8212,Heineken NV,18997791.0,2.053120641019848,Alcoholic beverages,2020
+22350,Anheuser Busch InBev,26484446.76,3.111165249866645,Alcoholic beverages,2020
+4151,CVS Health,15857183.63,2.991272735384754,Health care services,2020
+21481,Teck Resources Limited,77736885.0,2.2234466501767054,Other non-ferrous ore mining,2020
+7903,H&M Hennes & Mauritz AB,17121621.0,2.559430388979402,Apparel stores,2020
+9031,Inditex,20179662.0,3.1092327509485718,Apparel stores,2020
+51297,SIP ADVANCE PRINTING CO.,316502434.64000005,5.794227774536896,Paper products,2020
+14292,Panasonic Corporation,104278700.0,2.875544784595388,Electronic equipment,2020
+28630,Phihong Technology Co. Ltd,178971877.358,5.163304941604917,Electronic equipment,2020
+4663,Deutsche Post DHL Group,33500000.0,3.960892392139424,Logistics - 3rd party,2020
+19898,UPS,21008000.0,2.3408070940412524,Logistics - 3rd party,2020
+1452,Bank of America,4867841.0,5.984560234645929,Asset managers,2020
+1516,BASF SE,99676000.0,5.640095705985177,Specialty chemicals,2020
+57619,Shenma,75062105.0,4.1569872412527245,Specialty chemicals,2020
+1106,ASUSTeK Computer Inc,157782246.0,3.537089281643921,Computer hardware,2020
+276,A.P. Moller - Maersk,20795000.0,3.114115638781902,Marine freight,2020
+58901,"Fuyo General Lease Co., Ltd.",22360557.55,11.823812586565168,Banks,2020
+282,ABB,809927000.0,6.449034678822475,Electrical equipment,2020
+4226,"Daikin Industries, Ltd.",358170648.56,2.6543769704184084,Electrical equipment,2020
+32334,Signify N.V.,291282647.0,2.0925319185218703,Electrical equipment,2020
+64,Abbott Laboratories,14363000.0,2.786842353964173,Health care supplies,2020
+2191,Bristol-Myers Squibb,17184923.5,2.781216477168559,Pharmaceuticals,2020
+7374,GlaxoSmithKline,16196393.0,2.587543935586248,Pharmaceuticals,2020
+9829,Johnson & Johnson,20365501.0,3.404354082052285,Pharmaceuticals,2020
+22365,Jacobs Engineering Group Inc.,913124.0,3.4035083008406284,Engineering services,2020
+16266,Samsung SDI,9111831.0,2.403321230723968,Batteries,2020
+16036,RWE AG,187200000.0,2.222525521063372,Coal generation,2020
+10268,Korea Electric Power Corp,467524197.27,5.824939261033642,Electricity networks,2020
+21380,adidas AG,15204012.0,3.255338776432601,Apparel & footwear design,2020
+11930,Microsoft Corporation,11322527.0,2.2061913232192345,Software,2020
+16339,SAP SE,13958921.0,2.812773747371258,Software,2020
+64620,Dell Technologies,16237997.0,3.337144325102317,Software,2020
+5811,Ericsson,44712500.0,2.4261161492232706,Communications equipment,2020
+13360,Nokia Group,39276200.0,2.076434396660544,Communications equipment,2020
+16191,Samsung Electronics,70063000.0,4.05674861401392,Communications equipment,2020
+53,Abertis Infraestructuras,20250656.0,3.010219378302019,Transportation infrastructure & other construction,2020
+2096,Bouygues,21667000.0,3.253959743684048,Transportation infrastructure & other construction,2020
+19080,thyssenkrupp AG,812940000.0,5.384960810392919,Commercial services,2020
+11329,"Marriott International, Inc.",8029946.0,2.6829623786012773,Hotels & lodging,2020
+11796,"MetLife, Inc.",5461963.15,3.934051589466664,Insurance,2020
+23140,OP Financial Group,10006983.0,7.407012980045045,Insurance,2020
+836609,MCI GROUP CANADA INC,30030138.0,7.285534846148832,Other professional services,2020
+19197,Toshiba Corporation,619660500.0,8.009941029857872,Electronic components,2020
+52169,ARTESYN EMBEDDED TECHNOLOGIES,330549105.7,4.188674190134814,Electronic components,2020
+49585,ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.,63753117.044,3.36155118648155,Cement,2020
+31735,Korea District Heating Corp.,10056627436.0,6.162880561647157,CCGT generation,2020
+20301,Voestalpine AG,54327914.0,2.6171573579015903,Iron & steel,2020
+40410,"Schnitzer Steel Industries, Inc.",53883606.0,2.5905258110445093,Iron & steel,2020
+7616,"Alphabet, Inc.",11669000.0,4.821971725999678,Marketing,2020
+19266,Toto Ltd.,20607153.0,3.892995399754408,Plastic products,2020
+19582,Johnson Controls International plc,24063000.0,4.609555510595343,Plastic products,2020
+45126,Kilroy Realty,51917138.95,6.74429425583699,REIT,2020
+7047,PJSC Gazprom,1154544765.0,3.461507296093806,Gas utilities,2020
+9712,Japan Tobacco Inc.,7784477.796,2.0475448259381825,Tobacco products,2020
+3934,COSAN S.A.,39320731.5,3.34483768941984,0,2020
+53647,Zalando SE,3837249.0,2.522881845789283,Discretionary delivery retail,2020
+17315,Sojitz Corporation,9057868664.84,4.795787955859873,"Dealers, wholesalers & distributors",2020
+716,"Amgen, Inc.",2829355.0,2.988320525874318,Biotechnology,2020
+56776,Extra Light Electrical,3236612.0,3.0234623953586395,Homeware,2020
+15132,Procter & Gamble Company,381313043.0,6.451885486727324,Personal care & household products,2020
+17868,Sumco Corporation,19605100.0,3.298177106865227,Semiconductors,2020
+13425,Norfolk Southern Corp.,6557369.0,2.229130438830404,Rail freight,2020
+3564,The Coca-Cola Company,54039041.0,3.9369750457010753,Non-alcoholic beverages,2020
+843825,TRANSPORTADORA MOSCATO,1008167.0,2.566488490916984,Road freight,2020
+11160,Magna International Inc.,2628557287.0,4.196835169751141,Fabricated metal components,2020
+23254,Corning Incorporated,4750171860.0,7.731501123635106,Fabricated metal components,2020
+14605,"PepsiCo, Inc.",50465066.0,2.6745297213817603,Other food processing,2020
+827219,FOOD AGRO AND ALLIED INDUSTRIES LTD,79622015.0,4.484174184824563,Other food processing,2020
+3751,ConocoPhillips,195164764.0,3.0066519752876872,Oil & gas extraction,2020
+13649,Occidental Petroleum Corporation,206000000.0,3.20096621424235,Oil & gas extraction,2020
+14649,PGS ASA,14397846.0,3.160960095791697,Energy services & equipment,2020
+16072,"Ryder System, Inc.",10233672.088,3.3495937761413286,Vehicles & machinery rental & leasing,2020
+9028,INDRA,714368.6,3.5970965442364884,IT services,2020
+4089,Crown Holdings,10988389.0,2.6991607459615428,Metal containers & packaging,2020
+2880,Carrefour,99102627.0,2.1162251157990912,"Supermarkets, food & drugstores",2020
+20402,"Walmart, Inc.",184474411.0,4.419336248205679,"Supermarkets, food & drugstores",2020
+12145,"Mitsubishi Estate Company Co., Ltd.",3335399.0,3.727491451999829,Real estate owners & developers,2020
+16151,Saint-Gobain,132653611.0,3.1542199651510283,Glass products,2020
+14709,Koninklijke Philips NV,37671629.0,4.889523447531389,Medical equipment,2020
+660,American Airlines Group Inc,22042162.0,2.270016456251193,Passenger airlines,2020
+19569,United Airlines Holdings,22131716.0,2.282219793826143,Passenger airlines,2020
+17013,Showa Denko K.K.,45686560.0,2.6258368967776624,Inorganic base chemicals,2020
+12942,Nestlé,107411105.0,3.1305820481298365,Dairy & egg products,2020
+38107,KOBO PRODUCTS,3561039.05,3.074741415209546,Health care facilities,2020
+41143,Deutsche Bahn AG,12602087.0,2.3223532822521973,Passenger rail,2020
+9301,Inter Pipeline Ltd.,223290169.0,2.902098242113341,Oil & gas pipelines & storage,2020
+6263,Faurecia,22714000.0,3.642432960826297,Furniture,2020
+8696,Hyundai E&C,3737879.0,2.023006038298492,Energy infrastructure construction,2020
+9863,LIXIL Corporation,116885241.0,3.3129253699452184,Other non-wood building materials,2020
+13279,NIKE Inc.,15777000.0,2.1533199932458147,Clothing manufacture,2020
+55778,XIAMEN INTRETECH INC.,198287005.58,2.641424942048728,Household appliances,2020
+30047,Garan Manufacturing Corp,481926.34,2.345925983367427,Apparel & footwear,2020
+20055,Vallourec,8561325.0,2.2348247615763523,Metal processing,2020
+4377,De La Rue,184128099.0,3.314285108580256,Printing services,2020
+8526,"The Home Depot, Inc.",204637598.0,3.580277701368852,Specialist retail,2020
+2885,"CBRE Group, Inc.",28000544.0,2.973643661261624,Real estate services,2020
+16012,Royal Dutch Shell,693630000.0,3.0026045930319647,Oil & gas refining,2020
+5025,DSV A/S,15926521.0,2.6410505184395663,Logistics - transport,2020
+13316,NH Foods Ltd.,11133612.0,2.4319843771969643,Animal processing,2020
+11842,Michelin,165810462.0,2.3277247307687867,Rubber products,2020
+20906,Z Holdings Corporation,1338755.0,2.449363800485504,Web-based services,2020
+20205,VINCI,16106378.0,3.3203055934747097,Non-residential building construction,2020
+21403,Olam International,83076350.5,2.805644320576405,Food & beverage wholesale,2020
+4256,"Daiwa House Industry Co., Ltd.",10891636.818,2.949753597898986,Residential building construction,2020
+13826,Oji Holdings Corporation,5465992.0,2.658856017938348,Paper packaging,2020
+8566,"Honda Motor Co., Ltd.",297816499.0,2.466234703002411,Automobiles,2020
+19290,Toyota Motor Corporation,397940000.0,3.4835517950865555,Automobiles,2020
+20309,Volkswagen AG,447225434.0,3.984322482270027,Automobiles,2020
+15833,Rinnai Corporation,11392352.604,2.4469681489552944,Household appliances,2021
+15779,Rexel,32949846.0,2.300532377125903,"Dealers, wholesalers & distributors",2021
+17315,Sojitz Corporation,37105106.56,2.657251366893044,"Dealers, wholesalers & distributors",2021
+18280,"Taiwan Semiconductor Manufacturing Company, Ltd.",5571946.463,2.616447976370944,Semiconductors,2021
+840012,Kioxia Holdings Corporation,4607531.0,2.04773079275242,Semiconductors,2021
+15132,Procter & Gamble Company,247239813.0,6.428929813052127,Personal care & household products,2021
+3795,"Constellation Brands, Inc.",45418311.0,3.690741427443701,Alcoholic beverages,2021
+4151,CVS Health,10697251.38,3.5852931261800114,Health care services,2021
+21481,Teck Resources Limited,68893378.0,2.615792785423629,Other non-ferrous ore mining,2021
+2269,British American Tobacco,6781411.0,2.003329732994132,Tobacco products,2021
+9712,Japan Tobacco Inc.,6977168.646,2.080334049828762,Tobacco products,2021
+674,Amcor plc,9946570.0,2.129743593135815,Metal containers & packaging,2021
+1328,Ball Corporation,10004567.0,2.1450032499346627,Metal containers & packaging,2021
+4089,Crown Holdings,14298130.0,3.2746875064346384,Metal containers & packaging,2021
+7903,H&M Hennes & Mauritz AB,17387060.0,3.591430966208296,Apparel stores,2021
+9031,Inditex,14888171.0,3.0019927780351203,Apparel stores,2021
+689,"American Electric Power Company, Inc.",40440495.0,2.5015119769608027,0,2021
+3934,COSAN S.A.,38020453.861,2.319441713380099,0,2021
+706,American Tower Corp.,3582432.0,2.449481628621424,Utility line construction,2021
+53647,Zalando SE,4526111.0,3.15418383322832,Discretionary delivery retail,2021
+19582,Johnson Controls International plc,121906000.0,8.609856342946742,Plastic products,2021
+3229,China Mobile,42742294.51,6.725829574233025,Telecommunications services,2021
+13298,Nippon Telegraph & Telephone Corporation (NTT),23497056.0,3.517396336457849,Telecommunications services,2021
+20175,Verizon Communications Inc.,15640413.0,2.2075910812288413,Telecommunications services,2021
+58859,Hewlett Packard Enterprise Company,9320470.0,2.2134985781575063,Servers & data centers,2021
+11930,Microsoft Corporation,10817756.0,2.5853672997331127,Software,2021
+16339,SAP SE,12109130.0,2.938681735269164,Software,2021
+64620,Dell Technologies,14975553.0,3.722922880167973,Software,2021
+839019,SAP BRASIL LTDA,12109130.0,2.938681735269164,Software,2021
+9577,Itaúsa S.A.,73901446.97,7.11672892137032,Asset managers,2021
+1516,BASF SE,91386000.0,3.8464694808739575,Specialty chemicals,2021
+59899,Chemours Co/The,140180000.0,6.074313072559907,Specialty chemicals,2021
+826993,"IWASE COSFA CO.,LTD.",53645254.073,2.1232969809986746,Specialty chemicals,2021
+3204,"Chicony Power Technology Co.,Ltd.",35850988.11,2.0969389775554044,Computer hardware,2021
+58858,HP Inc,49450000.0,3.129483032820775,Computer hardware,2021
+841084,Corteva Inc,6400000.0,3.5089211387791432,Biotechnology,2021
+33411,Harris Tea Company,210106074.0,4.363303588458882,Other food processing,2021
+60798,INDUSTRIAS COR SA DE CV,242254909.0,5.07773310710675,Other food processing,2021
+1149,Atos SE,2736793.0,2.528759776505045,Other professional services,2021
+4528,Deloitte Touche Tohmatsu Limited,2560725.0,2.341562207569543,Other professional services,2021
+6874,Fujitsu Limited,4585940.0,4.494794621021804,Other professional services,2021
+12903,NEC Corporation,6157888.0,6.166108227656879,Other professional services,2021
+20841,WSP,451162.0,3.5652876919859007,Engineering services,2021
+53,Abertis Infraestructuras,16839433.21,3.9210041290705417,Transportation infrastructure & other construction,2021
+2096,Bouygues,11751000.0,2.577694568558363,Transportation infrastructure & other construction,2021
+19080,thyssenkrupp AG,644711000.0,5.74149941561946,Commercial services,2021
+1268,Aviva plc,804051.68,3.561947812471183,Insurance,2021
+15981,RSA Insurance Group,576814.0,2.407322987367502,Insurance,2021
+17377,"Sompo Holdings, Inc",519347.0,2.1153255297969387,Insurance,2021
+58907,Japan Post Holdings,1167910.4,5.410762282599769,Insurance,2021
+19197,Toshiba Corporation,425095551.0,10.289649708371762,Electronic components,2021
+829930,JILIN SINO-MICROELECTRONICS,114186780.0,2.6374239299655304,Electronic components,2021
+8207,HeidelbergCement AG,21255187.0,2.1709792951757625,Cement,2021
+8525,Holcim Ltd.,29162672.0,3.2292061438345163,Cement,2021
+11329,"Marriott International, Inc.",6145805.0,2.568695657115879,Hotels & lodging,2021
+22499,Intercontinental Hotels Group,5178366.0,2.0653937570074894,Hotels & lodging,2021
+3042,Centrica,138068747.802,2.748523269509556,CCGT generation,2021
+5108,E.ON SE,108211061.2,2.011710406974041,CCGT generation,2021
+6113,Exelon Corporation,182175304.0,3.8369625167302392,CCGT generation,2021
+7121,ENGIE,134001033.0,2.6481422645378268,CCGT generation,2021
+18517,"The Tokyo Electric Power Company Holdings, Inc (TEPCO)",109909069.0,2.053612983164985,CCGT generation,2021
+10181,"Kobe Steel., Ltd.",45223466.016,2.1684846715460853,Iron & steel,2021
+20301,Voestalpine AG,54572232.0,2.750988759928762,Iron & steel,2021
+40410,"Schnitzer Steel Industries, Inc.",46860228.0,2.2704682433908694,Iron & steel,2021
+851003,HOLDING COMPANY METALLOINVEST AO,52152075.0,2.6001933127605814,Iron & steel,2021
+3564,The Coca-Cola Company,50420239.0,3.5311997630768945,Non-alcoholic beverages,2021
+276,A.P. Moller - Maersk,19086452.0,3.349756918483481,Marine freight,2021
+9578,Itaú Unibanco Holding S.A.,69728803.97,12.825803167063524,Banks,2021
+17870,Sumitomo Bakelite Company Limited,865470657.468,6.813167950675091,Other base chemicals,2021
+10268,Korea Electric Power Corp,404309293.26,6.236147803192043,Electricity networks,2021
+49615,OCI N.V.,22866807.0,2.3623167657722925,Agricultural chemicals,2021
+4226,"Daikin Industries, Ltd.",283621085.0,3.984737740871977,Electrical equipment,2021
+9103,Trane Technologies,242354105.0,3.3467364790624,Electrical equipment,2021
+15309,Prysmian SpA,291462667.0,4.105971211568967,Electrical equipment,2021
+32334,Signify N.V.,286292744.0,4.0260424792639045,Electrical equipment,2021
+34285,"Wolfspeed, Inc.",182435443.0,2.420373998407369,Electrical equipment,2021
+64,Abbott Laboratories,11222110.0,2.935720143381746,Health care supplies,2021
+7374,GlaxoSmithKline,14620394.0,2.8373706581041067,Pharmaceuticals,2021
+9829,Johnson & Johnson,20431301.0,4.179978745513585,Pharmaceuticals,2021
+16151,Saint-Gobain,132653611.0,3.1501457131996675,Glass products,2021
+383,Aggreko,12126681.122,2.4000032204000568,Vehicles & machinery rental & leasing,2021
+19902,United Rentals,12802999.0,2.5670549031203262,Vehicles & machinery rental & leasing,2021
+14709,Koninklijke Philips NV,34143999.0,5.202608948270836,Medical equipment,2021
+13097,Nexans,200301641.0,3.794880012231973,Fabricated metal components,2021
+15854,Robert Bosch GmbH,402257127.0,7.82378547238621,Fabricated metal components,2021
+31357,Bekaert NV,182043000.0,3.430629751558707,Fabricated metal components,2021
+847302,"PANDROL USA, LP",350522000.0,6.791696967238729,Fabricated metal components,2021
+350,Agnico-Eagle Mines Limited,1295098000.0,3.312120010165381,Precious metals & minerals mining,2021
+851037,Alumeco,1125437350.53,2.835573533632474,Precious metals & minerals mining,2021
+17013,Showa Denko K.K.,35317490.0,2.299020036683831,Inorganic base chemicals,2021
+21770,Airbus SE,443402771.0,2.0931740183905574,Aerospace,2021
+22381,Autoliv Inc,11992000.0,3.3724360225312493,Other vehicle equipment & systems,2021
+3751,ConocoPhillips,162700000.0,3.094383977834967,Oil & gas extraction,2021
+13649,Occidental Petroleum Corporation,135000000.0,2.4638715216522105,Oil & gas extraction,2021
+22341,Ecopetrol S.A.,118803383.0,2.0952011690702106,Oil & gas extraction,2021
+16418,Schlumberger Limited,38493000.0,4.097559247809819,Energy services & equipment,2021
+7616,"Alphabet, Inc.",9376000.0,4.531629910184385,Marketing,2021
+20789,WPP Group,5109476.0,2.2981348653540192,Marketing,2021
+8696,Hyundai E&C,6044236.0,2.8719656567952674,Energy infrastructure construction,2021
+5025,DSV A/S,12563486.0,3.91593770702054,Logistics - transport,2021
+22520,Bolloré SA,8298058.162,2.438237149299173,Logistics - transport,2021
+34462,TTR Transport,12549970.57,3.906644814723914,Road freight,2021
+9028,INDRA,375416.9,2.442721757510299,IT services,2021
+858212,SOURCING NETWORK,553523.0,3.813752106251382,IT services,2021
+50074,News Corp,2505221.33,2.6444316817640106,Print publishing,2021
+7047,PJSC Gazprom,1078493075.0,3.588261778199288,Gas utilities,2021
+832020,CHANEL,164747412.0,3.988738754862864,Apparel design & manufacturing,2021
+895,Arcadyan Technology Corporation,2742389565.644,7.341062355434797,Electronic equipment,2021
+841784,Hudson Pacific Properties,291802662.0,7.64924227444545,REIT,2021
+20332,Wal Mart de Mexico,164831358.39000002,3.744711581601044,"Supermarkets, food & drugstores",2021
+20402,"Walmart, Inc.",171269374.0,3.9120246872005686,"Supermarkets, food & drugstores",2021
+63672,Corporación Inmobiliaria Vesta S.A.B de C.V.,65165000.0,5.892309655788415,Real estate owners & developers,2021
+20182,Vestas Wind Systems A/S,9794000.0,2.053882514227336,Other renewable energy equipment,2021
+660,American Airlines Group Inc,9674025.0,2.6184687798130475,Passenger airlines,2021
+19569,United Airlines Holdings,12480289.0,3.548068456947777,Passenger airlines,2021
+20205,VINCI,41488516.0,4.707950973294192,Non-residential building construction,2021
+20515,"Waste Management, Inc.",3502992.0,2.1021338320194984,Waste management,2021
+852577,LG Energy Solution,8639713.0,3.047485814664889,Batteries,2021
+21380,adidas AG,11636342.046,3.0339598617450374,Apparel & footwear design,2021
+336,"ASE Technology Holding Co., Ltd.",21179759.0,3.1481737587331624,Industrial services,2021
+32711,TPV Technology Limited,5633410292.0,6.781532856005743,Communications equipment,2021
+10347,Kubota Corporation,23745001.0,2.021042755197539,"Agriculture, construction & mining machinery",2021
+6193,"FamilyMart Co.,Ltd.",6441606.0,2.808788996144348,Consumer services,2021
+4212,"Dai Nippon Printing Co., Ltd.",4259189.0,2.032137144445949,Printing services,2021
+19238,Toppan Inc.,5910879.0,2.9821609832179203,Printing services,2021
+51587,YKK,539893.0,2.1468011943555725,Apparel & footwear,2021
+11799,Meredith Corporation,22122772.9,2.4467811319823407,Media,2021
+13532,Novelis Inc.,14244591.0,2.2909874887552704,Metal processing,2021
+6263,Faurecia,24256000.0,3.860513811908811,Furniture,2021
+33518,Ready Pac Produce,541977.0,2.138809098171515,"Fruit, nut & vegetable processing",2021
+9863,LIXIL Corporation,107008429.0,3.59967523847826,Other non-wood building materials,2021
+41143,Deutsche Bahn AG,9765908.0,2.183241543429219,Passenger rail,2021
+9520,Isetan Mitsukoshi Holdings Ltd.,25969695.0,2.685060282422063,Department stores,2021
+833334,Equitrans Midstream,213436783.0,3.322540687973569,Oil & gas pipelines & storage,2021
+4256,"Daiwa House Industry Co., Ltd.",10649221.853,3.355237383697191,Residential building construction,2021
+6595,Ford Motor Company,349281992.0,3.164095447690992,Automobiles,2021
+7164,General Motors Company,254440148.0,2.153411999556749,Automobiles,2021
+8566,"Honda Motor Co., Ltd.",244758486.0,2.050239231913911,Automobiles,2021
+19290,Toyota Motor Corporation,341344044.0,3.079504592880637,Automobiles,2021
+20309,Volkswagen AG,368258661.0,3.366320588516197,Automobiles,2021
+8061,Hanwha Corp.,984497.49,4.357972954230946,Other financial,2021
+13316,NH Foods Ltd.,10575689.0,3.216681442243001,Animal processing,2021
+8526,"The Home Depot, Inc.",185746651.0,4.131085236185354,Specialist retail,2021
+16012,Royal Dutch Shell,1339550000.0,4.29440196521157,Oil & gas refining,2021
+20883,Yamaha Corporation,1055602.0,2.2679100407422723,Homeware,2021
+11842,Michelin,165810462.0,2.881403452347336,Rubber products,2021
+13279,NIKE Inc.,17742300.0,2.31823745747498,Clothing manufacture,2021
+8054,Caesars Entertainment,1582256.0,2.236125917458053,Gambling,2021
+834784,"GINGER LOGISTICS INT`L CO.,LTD",41288976.12,2.4471340983728047,Intermodal transport,2021
+16919,Siemens AG,494015501.0,3.62217639230354,Industrial machinery,2021
+858430,Siemens Energy AG,927474642.0,6.987708292152071,Industrial machinery,2021
+840513,Sateri,12961884.717,4.713388377588762,Textiles,2021
+11366,Mowi ASA,1716895.0,2.037979175972684,Aquaculture,2021
+20906,Z Holdings Corporation,2248754.0,2.974115809039535,Web-based services,2021
+2802,Cargill,185355460.0,2.9161672626863884,Food & beverage wholesale,2021
+12942,Nestlé,117000828.0,3.9191702100113712,Dairy & egg products,2021
+4136,Cummins Inc.,757353200.0,4.100563134002456,Engines & motors,2021
+2885,"CBRE Group, Inc.",361249619.0,3.7385842044910063,Real estate services,2021
+860698,Mingfeng Packaging,97925588.529,4.462745898589359,Paper packaging,2021
+9352,International Paper Company,28174933.0,5.10912489017485,Paper products,2021
+58295,WestRock Company,14265693.59,2.384566586440241,Paper products,2021
+4663,Deutsche Post DHL Group,31850000.0,3.6885650405466137,Logistics - 3rd party,2021
+19898,UPS,21437000.0,2.348884326975786,Logistics - 3rd party,2021
+46817,"SHYA HSIN PACKAGING INDUSTRY(CHINA)CO.,LTD.",104757685.07,5.954860192449587,Other containers & packaging,2021
+38099,FAREVA,2583632.0,2.174807907398118,Health care facilities,2021
+38107,KOBO PRODUCTS,2998054.67,2.6110850503591263,Health care facilities,2021
+13367,Nisshin Seifun Group Inc.,159361460.75,3.310221086316662,Baked goods & cereals,2021
+836138,BERLIN PACKAGING LLC,544436404.0,3.7415404414978832,Consumer goods wholesale & rental,2022
+31947,Brenntag SE,24153065.0,2.239465944687629,Chemicals wholesale & distribution,2022
+869633,COLTANQUES S A S,128993476.0,6.080559604232079,Road freight,2022
+37446,Deceuninck NV,564562.0,2.780618718821088,Other building products,2022
+38410,Blue Diamond Growers,637936.0,2.196939924623556,"Fruit, nut & vegetable processing",2022
+864027,Nextracker Inc.,2293886.585,2.4317558590006745,Renewable energy construction,2022
+59134,NATS Holdings Limited,13953696.0,2.4192457837390258,Transportation support services,2022
+4256,"Daiwa House Industry Co., Ltd.",13049479.77,3.962629151999129,Residential building construction,2022
+2116,Brambles,1564832.0,2.093041090645413,Finished wood products,2022
+7619,The Goodyear Tire & Rubber Company,155569002.1,2.662587557509433,Rubber products,2022
+11842,Michelin,144795561.0,2.4378272910549272,Rubber products,2022
+13279,NIKE Inc.,16557600.0,2.424321753029796,Clothing manufacture,2022
+4663,Deutsche Post DHL Group,37600000.0,4.572879954754975,Logistics - 3rd party,2022
+19898,UPS,19486000.0,2.185935244744258,Logistics - 3rd party,2022
+3751,ConocoPhillips,224600000.0,3.295120236775518,Oil & gas extraction,2022
+13649,Occidental Petroleum Corporation,193800000.0,2.7605017836654584,Oil & gas extraction,2022
+5802,Eramet,14955950.0,2.543280123792933,Other non-ferrous metals,2022
+19845,Union Pacific Corporation,3663097.52,2.0671836402209043,Rail freight,2022
+834784,"GINGER LOGISTICS INT`L CO.,LTD",546045170.56,3.605493712496837,Intermodal transport,2022
+2802,Cargill,197436555.0,2.4622082429573835,Food & beverage wholesale,2022
+1356,Baker Hughes Company,237010432.0,4.659319483007249,Energy services & equipment,2022
+3564,The Coca-Cola Company,57959857.0,3.991184585454809,Non-alcoholic beverages,2022
+1681,"Benesse Holdings, Inc.",208527.0,2.417002861560096,Education services,2022
+16012,Shell PLC,1328890000.0,4.21434576794151,Oil & gas refining,2022
+1812,Bic,804800.0,2.1042223751476787,Homeware,2022
+20883,Yamaha Corporation,908145.0,2.4468781375304616,Homeware,2022
+6595,Ford Motor Company,299853676.0,2.973210689228026,Automobiles,2022
+7164,General Motors Company,233167875.0,2.200368290416432,Automobiles,2022
+8566,"Honda Motor Co., Ltd.",275724920.0,2.693575063836353,Automobiles,2022
+19290,Toyota Motor Corporation,373340317.0,3.824870128859657,Automobiles,2022
+20309,Volkswagen AG,364179965.97,3.7187079840279353,Automobiles,2022
+21770,Airbus SE,476092389.0,2.1858801367643275,Aerospace,2022
+4136,Cummins Inc.,1169967900.0,4.800102577537606,Engines & motors,2022
+852434,ALELO S.A,1362618760.981,8.245958962643433,Asset managers,2022
+53,Abertis Infraestructuras,19422639.5,4.078473286830942,Transportation infrastructure & other construction,2022
+2096,Bouygues,18722100.0,3.914376591333711,Transportation infrastructure & other construction,2022
+19080,thyssenkrupp AG,35820000.0,6.414240702182358,Commercial services,2022
+64,Abbott Laboratories,12480000.0,3.396587058892244,Health care supplies,2022
+12903,NEC Corporation,6533590.789,2.052589337039066,Other professional services,2022
+53664,Samsung SDS,6497114.0,2.039968252025904,Other professional services,2022
+57190,THE SPUR GROUP INC,17502226.16,5.847772062573723,Other professional services,2022
+884627,CS BRASIL TRANSPORTES DE PASSAGEIROS E SERVIÇOS AMBIENTAIS LTDA,27994068.0,9.477982709878662,Other professional services,2022
+449,AKBANK T.A.Ş.,21036920.67,2.1091327134433167,Banks,2022
+21160,YAPI VE KREDİ BANKASI A.Ş.,42017711.87,4.38271186348338,Banks,2022
+21868,First Financial Holding Co,82291541.0,8.746977125426607,Banks,2022
+37310,"Sumitomo Mitsui Trust Holdings, Inc.",86400000.0,9.19218944521722,Banks,2022
+21889,Empresas CMPC,8194363.0,2.3351581218188646,Pulp & paper mills,2022
+23129,Stora Enso Oyj,7830000.0,2.1953026020612527,Pulp & paper mills,2022
+8207,HeidelbergCement AG,36395415.0,3.595656666457201,Cement,2022
+8525,Holcim Ltd.,29958287.0,2.854691728233769,Cement,2022
+22603,Everlight Electronics Co Ltd,26742780985.86,11.357243666351495,Electronic components,2022
+11329,"Marriott International, Inc.",11034325.0,3.3383915162298226,Hotels & lodging,2022
+10268,Korea Electric Power Corp,220002720.0,5.909486710121682,Electricity networks,2022
+63843,Uniper SE,106438465.0,2.6270727569927708,Electricity networks,2022
+5108,E.ON SE,100377359.43,2.496688532703329,CCGT generation,2022
+6113,Exelon Corporation,86711513.0,2.058865936198453,CCGT generation,2022
+6582,Fortum Oyj,120228000.0,3.13265784797116,CCGT generation,2022
+7121,ENGIE,127663206.0,3.370864914993545,CCGT generation,2022
+18517,"The Tokyo Electric Power Company Holdings, Inc (TEPCO)",102724000.0,2.5718695522386907,CCGT generation,2022
+3204,"Chicony Power Technology Co.,Ltd.",32246168.340000004,2.7686005149484387,Computer hardware,2022
+58858,HP Inc,32760000.0,2.823079837347071,Computer hardware,2022
+11930,Microsoft Corporation,13784501.0,4.201120753411772,Software,2022
+16339,SAP SE,10060780.0,3.0080280096462046,Software,2022
+64620,Dell Technologies,23871702.0,7.433093910907933,Software,2022
+336,"ASE Technology Holding Co., Ltd.",16231394.0,3.316543093187097,Industrial services,2022
+1536,Barrick Gold Corporation,4815000.0,2.448659012717703,Precious metals & minerals mining,2022
+13117,Newmont Corporation,5906431.0,3.1619193698339494,Precious metals & minerals mining,2022
+59313,AerCap Holdings NV,22101206.0,3.934838970408374,Vehicles & machinery rental & leasing,2022
+14709,Koninklijke Philips NV,9152659.0,3.3150327378508457,Medical equipment,2022
+19016,Thermo Fisher Scientific Inc.,11702924.0,4.3630927210726105,Medical equipment,2022
+14605,"PepsiCo, Inc.",58408945.0,4.397059816569806,Other food processing,2022
+58857,The Kraft Heinz Company,43940811.0,3.1927405698706286,Other food processing,2022
+832709,Charoen Pokphand Group,50691335.0,3.754650348872172,Other food processing,2022
+13097,Nexans,171610510.0,4.046524202290842,Fabricated metal components,2022
+15854,Robert Bosch GmbH,382118793.0,9.199886802410742,Fabricated metal components,2022
+28622,ZF Friedrichshafen AG,91672227.0,2.0895895294162337,Fabricated metal components,2022
+31856,Kongsberg Automotive Holding ASA,457799898.76,11.05260335304311,Fabricated metal components,2022
+7374,GSK,13456265.0,3.1495733362860707,Pharmaceuticals,2022
+9829,Johnson & Johnson,17414185.0,4.251709831755352,Pharmaceuticals,2022
+837602,"SINOCHEM GROUP - NINGBO NUOBAI - LINHAI, ZHEJIANG (Langhua site)",9424228.63,2.0267981325334725,Pharmaceuticals,2022
+904,ArcelorMittal,31694731.0,2.051085792899033,Iron & steel,2022
+10181,"Kobe Steel, Ltd.",45127150.0,3.18001880779748,Iron & steel,2022
+34307,Baosteel,45134497.0,3.180636289344211,Iron & steel,2022
+851003,HOLDING COMPANY METALLOINVEST AO,39844000.0,2.735994357870722,Iron & steel,2022
+16191,Samsung Electronics,123234900.0,4.8211068394148695,Communications equipment,2022
+21044,ZTE,98683524.71,3.786642583547743,Communications equipment,2022
+56282,Huaqin,66733997.0,2.4404595686478348,Communications equipment,2022
+1516,BASF SE,101396000.0,4.720160381587087,Specialty chemicals,2022
+59899,Chemours Co/The,144080000.0,6.844912180108392,Specialty chemicals,2022
+826993,"IWASE COSFA CO.,LTD.",50066181.64,2.1650314368260104,Specialty chemicals,2022
+8116,"The Hartford Financial Services Group, Inc.",905988837.0,9.262196508311067,Insurance,2022
+7616,"Alphabet, Inc.",9503000.0,5.691856402638007,Marketing,2022
+20789,WPP Group,5067740.55,2.897084099373246,Marketing,2022
+2880,Carrefour,137075378.0,2.87911068049606,"Supermarkets, food & drugstores",2022
+20402,"Walmart, Inc.",242835480.0,5.4471139300387055,"Supermarkets, food & drugstores",2022
+12145,"Mitsubishi Estate Company Co., Ltd.",2222622.0,2.2829700987816657,Real estate owners & developers,2022
+12295,"Mitsui Fudosan Co., Ltd.",3437453.0,3.898121297732537,Real estate owners & developers,2022
+63672,Corporación Inmobiliaria Vesta S.A.B de C.V.,2208236.0,2.263843516443788,Real estate owners & developers,2022
+276,A.P. Moller - Maersk,28950000.0,4.013435776157329,Marine freight,2022
+4226,"Daikin Industries, Ltd.",306930277.0,3.095876899700642,Electrical equipment,2022
+5521,Emerson Electric Co.,591296800.0,6.305724459148708,Electrical equipment,2022
+9103,Trane Technologies,402705277.0,4.176957565465713,Electrical equipment,2022
+15309,Prysmian SpA,284562292.0,2.8433935155646664,Electrical equipment,2022
+32334,Signify N.V.,317845000.0,3.219079155064582,Electrical equipment,2022
+858210,Hellenic Cables S.A.,247362690.0,2.423495102655706,Electrical equipment,2022
+15132,Procter & Gamble Company,195794492.0,6.965742357540974,Personal care & household products,2022
+19829,Unilever plc,61445738.0,2.009717127937821,Personal care & household products,2022
+21481,Teck Resources Limited,78443000.0,2.221932533313647,Other non-ferrous ore mining,2022
+7060,Gap Inc.,11468431.0,2.524659252372253,Apparel stores,2022
+9031,Inditex,17097801.0,4.035265146453832,Apparel stores,2022
+59396,Decathlon SA,10491206.084,2.262427116635399,Apparel stores,2022
+17652,Starbucks Corporation,13859078.0,2.3305771314207204,Food & beverage amenities,2022
+59884,Sinanen Holdings Co Ltd,8321318.0,5.527738893882936,Engineering services,2022
+865555,"SANKI ENGINEERING CO.,LTD.",5005392.0,3.2126955440705576,Engineering services,2022
+10670,LG Electronics,69924235.0,4.698262383947195,Electronic equipment,2022
+14292,Panasonic Holdings Corporation,98052000.0,6.691229536999791,Electronic equipment,2022
+11085,LyondellBasell Industries N.V.,93732574.0,2.139258644794634,Other base chemicals,2022
+12674,Nan Ya Plastics,239448647.88,6.144198555895388,Other base chemicals,2022
+41275,SABIC,116506605.0,2.7651925123489978,Other base chemicals,2022
+21501,Brookfield Renewable Partners L.P.,1303051.0,2.82167876111849,Hydro generation,2022
+16151,Saint-Gobain,85193241.0,4.428121938389532,Glass products,2022
+3229,China Mobile,19650782.05,4.305825876838387,Telecommunications services,2022
+3244,China Telecom,10911505.91,2.157016998454829,Telecommunications services,2022
+4667,Deutsche Telekom AG,14775963.0,3.107207789098995,Telecommunications services,2022
+13298,Nippon Telegraph & Telephone Corporation (NTT),22226773.0,4.939209252683483,Telecommunications services,2022
+12099,"Mitsubishi Heavy Industries, Ltd.",1580346107.0,6.456275612222118,Industrial machinery,2022
+858430,Siemens Energy AG,1373897000.0,5.5802449010480615,Industrial machinery,2022
+8526,"The Home Depot, Inc.",200999185.0,5.188024369882421,Specialist retail,2022
+46817,"SHYA HSIN PACKAGING INDUSTRY(CHINA)CO.,LTD.",100584067.91,6.620036810703176,Other containers & packaging,2022
+11366,Mowi ASA,1825745.0,2.076168642690458,Aquaculture,2022
+20205,VINCI,40924766.0,5.386774728372233,Non-residential building construction,2022
+21967,Chicony Electronics Co. Ltd,25161246.0,3.974605583271063,Batteries,2022
+10227,Korea Gas Corp,117254384.0,2.7353605196197224,Gas utilities,2022
+19582,Johnson Controls International plc,125950000.0,4.926688002216781,Plastic products,2022
+853198,FLOREMPAQUE CIA LTDA,236825037.343,9.414385309440789,Plastic products,2022
+2319,Brunswick Corporation,4374202.0,2.03106767919148,Sporting goods,2022
+3795,"Constellation Brands, Inc.",48169397.0,4.033309850597544,Alcoholic beverages,2022
+674,Amcor plc,9825906.0,2.509549821248468,Metal containers & packaging,2022
+1328,Ball Corporation,11876976.0,3.140600406713874,Metal containers & packaging,2022
+4089,Crown Holdings,10230048.0,2.633891772381857,Metal containers & packaging,2022
+3934,COSAN S.A.,52097913.76800001,2.809209428791899,0,2022
+706,American Tower Corp.,3647199.0,2.183518363648913,Utility line construction,2022
+17315,Sojitz Corporation,54907568.0,3.373336071538261,"Dealers, wholesalers & distributors",2022
+716,"Amgen, Inc.",3519825.0,2.156414461712683,Biotechnology,2022
+841084,Corteva Inc,6340288.0,4.240399075296709,Biotechnology,2022
+18280,"Taiwan Semiconductor Manufacturing Company, Ltd.",6127156.74,2.765034390002985,Semiconductors,2022
+840012,Kioxia Holdings Corporation,6900409.0,3.1887098785846204,Semiconductors,2022
+660,American Airlines Group Inc,12907211.0,2.142580973289797,Passenger airlines,2022
+4408,Delta Air Lines,15405320.0,2.691069456456284,Passenger airlines,2022
+19569,United Airlines Holdings,15363036.0,2.681785519277317,Passenger airlines,2022
+20182,Vestas Wind Systems A/S,10564110.0,2.614244991064071,Other renewable energy equipment,2022
+879249,SERVICIOS INTEGRALES MAYTRAS SA DE CV,396080400.0,4.993547709606841,Logistics - transport,2022
+19305,Transcontinental Inc.,6910379.0,2.494144145314193,Print publishing,2022
+1636,Bechtle AG,2204502.0,2.5740976219927365,IT services,2022
+48041,CDW Corporation,5356249.411,6.7100808305890025,IT services,2022
+841784,Hudson Pacific Properties,259230198.0,8.365724354201523,REIT,2022
+9712,Japan Tobacco Inc.,6847437.57,2.170359281937332,Tobacco products,2022
+8831,Imerys SA,3286400.0,2.3874847325548627,Other non-metallic minerals,2022
+852110,"Wuxi Xizhou Machinery Co.,Ltd.",15197092.835,2.3090889510158754,Other vehicle equipment & systems,2022
+857848,CTY TNHH MTV CHAMPION LEE GROUP VIET NAM,12000000000.0,6.782307276322039,Paper products,2022
+10177,"Kintetsu Group Holdings Co.,Ltd.",103546.0,2.383100243761645,Travel services,2022
+840513,Sateri,11614387.0,4.86171393927567,Textiles,2022
+12105,Misumi Group Inc.,1647531.0,2.285808241138566,Industrial machinery distribution,2022
+37636,Crystal International Group Limited,1331309.0,2.238000474073274,Apparel design & manufacturing,2022
+849605,Mango,2157259.0300000003,3.937414171079092,Apparel design & manufacturing,2022
+49615,OCI N.V.,28228277.0,2.6868992967020384,Agricultural chemicals,2022
+16732,Vedanta Ltd,34526656.0,2.1678763503666088,Aluminum,2022
+848392,Nouryon,4623378.0,2.8025430203732635,Basic plastics,2022
+21199,SK Networks Co. Ltd.,4622951.82,2.638219102118883,Technology hardware wholesale & distribution,2022
+20669,Whirlpool Corporation,69726072.0,4.31603469031317,Household appliances,2022
+829129,Espersens,24928266.0,2.227408832705854,Seafood processing,2022
+58859,Hewlett Packard Enterprise Company,9451751.0,3.1160809624463326,Servers & data centers,2022
+7084,Naturgy Energy Group SA,136450026.0,2.2035967317821434,Oil & gas marketing & retailing,2022
+6193,"FamilyMart Co.,Ltd.",5711238.0,2.4060185086247285,Consumer services,2022
+41143,Deutsche Bahn AG,12271627.0,2.125942845129356,Passenger rail,2022
+5197,eBay Inc.,4751876.0,2.0063746044356185,Discretionary delivery retail,2022
+53647,Zalando SE,5578964.0,2.4838549713623213,Discretionary delivery retail,2022
+18396,Tecnicas Reunidas,123445676.58,3.2318643705347463,Energy infrastructure construction,2022
+40556,Meta,5651459.0,2.565857925516628,Web-based services,2022
+35778,HNI Corporation,1344777123.0,4.47125547616431,Furniture,2022
+9863,LIXIL Corporation,106348007.0,3.73150152523121,Other non-wood building materials,2022
+21380,adidas AG,7254510.0,2.5128744495673825,Apparel & footwear design,2022
+13367,Nisshin Seifun Group Inc.,14545026.0,2.4932189017442066,Baked goods & cereals,2022
+13532,Novelis Inc.,17885894.0,2.319203437276508,Metal processing,2022
+3876,Ingredion Incorporated,9735141.0,2.444905614438569,Grain & corn milling,2022
+15670,"Republic Services, Inc.",3472265.0,2.0356888801031148,Waste management,2022
+50608,Minerva Foods,16762018.44,2.664345745110077,Animal processing,2022
+4212,"Dai Nippon Printing Co., Ltd.",4242987.0,2.260530905957728,Printing services,2022
+19238,Toppan Inc.,5833373.0,3.260938434502417,Printing services,2022
+12942,Nestlé,113720072.0,3.441139042346272,Dairy & egg products,2022
+15440,Quest Diagnostics Incorporated,24827156.08,3.9243791916096864,Health care facilities,2022
+6555,FLSmidth & Co. A/S,212410089.0,3.207371323806933,"Agriculture, construction & mining machinery",2022
+7631,Graphic Packaging International LLC,6240206.0,3.2698909275952834,Paper packaging,2022
+13826,Oji Holdings Corporation,7924117.0,4.258990462083024,Paper packaging,2022
+2885,"CBRE Group, Inc.",89168769.0,3.893196589092242,Real estate services,2022
+3316,The Chugoku Electric Power Company,11134661.0,2.1518297591285576,Non-CCGT generation,2022
+4151,CVS Health,6668258.0,3.995073679380853,Health care services,2022
+3402,"Citizen Watch Co.,Ltd.",1126553.93,2.2227634373366523,Accessories,2022
+13779,The ODP Corporation,5350846.5,2.2125750940194737,Home & office wholesale,2022
+3635,Comcast Corporation,10908927.0,3.427244617235353,Media,2022
+895565,W.A.G payment solutions plc,5443786.0,5.828020430640206,Other financial,2022
+833334,Equitrans Midstream,213084785.0,3.683266647175832,Oil & gas pipelines & storage,2022
+49524,Samsonite International SA,382058.0,2.639690008466377,Luggage & bags,2023
+59890,Maruha Nichiro Corp,6199067.831,2.285413794417648,Seafood processing,2023
+875905,Braanker Transport BV,303791600.0,6.912465106826621,Road freight,2023
+74101,Parques Reunidos Group,292555.0,2.225193990794329,Recreation & entertainment facilities,2023
+927539,"Shanghai Haoliwen Airline Appliance Co.,Ltd",1362089.06,3.2315150053330504,Consumer goods wholesale & rental,2023
+929625,Avon Cosmetics Ltd,1314257.92,3.1007351146002806,Consumer goods wholesale & rental,2023
+71245,AS ONE Corporation,368240.0,2.2833557072504025,Pharma & health care supplies wholesale & distribution,2023
+848392,Nouryon,4426581.0,2.486347145339224,Basic plastics,2023
+895361,FORVIA,34801000.0,3.153711847169448,Automotive interior,2023
+39078,Spectrum Brands Inc.,1797471.0,2.042198894395269,Other building products,2023
+16012,Shell PLC,1203750000.0,4.226199028551195,Oil & gas refining,2023
+1812,Bic,799200.0,2.323439790185132,Homeware,2023
+20883,Yamaha Corporation,1030965.0,3.142507638398208,Homeware,2023
+6193,"FamilyMart Co.,Ltd.",5843699.0,3.309044264524154,Consumer services,2023
+6595,Ford Motor Company,370223094.0,3.318495506751318,Automobiles,2023
+7164,General Motors Company,272722605.0,2.3315260116557144,Automobiles,2023
+8566,"Honda Motor Co., Ltd.",284409746.0,2.4498315890962656,Automobiles,2023
+19290,Toyota Motor Corporation,570489269.0,5.345732576551837,Automobiles,2023
+20309,Volkswagen AG,395681718.0,3.576205858082057,Automobiles,2023
+21770,Airbus SE,433939522.0,2.2710606833581024,Aerospace,2023
+4136,Cummins Inc.,1119012512.0,5.446609397959785,Engines & motors,2023
+4256,"Daiwa House Industry Co., Ltd.",11857655.343,3.4389193163076475,Residential building construction,2023
+2116,Brambles,1565054.0,2.482850028326828,Finished wood products,2023
+2156,Bridgestone Corporation,109687999.0,2.1365394311882637,Rubber products,2023
+3818,Continental AG,105960000.0,2.047589236327551,Rubber products,2023
+7619,The Goodyear Tire & Rubber Company,157247000.0,3.2712989647425363,Rubber products,2023
+11842,Michelin,143587755.0,2.945388870775181,Rubber products,2023
+5087,Dynapack International Technology Corporation,37623842.120000005,4.460016161352792,Batteries,2023
+1356,Baker Hughes Company,252414204.0,5.6304843354734775,Energy services & equipment,2023
+3564,The Coca-Cola Company,60093261.0,4.562453480785172,Non-alcoholic beverages,2023
+1681,"Benesse Holdings, Inc.",189981.0,3.339727498919352,Education services,2023
+8526,"The Home Depot, Inc.",192948260.143,4.513237050892044,Specialist retail,2023
+11017,"Lowe's Companies, Inc.",163679453.0,3.7724995218294617,Specialist retail,2023
+881054,S&S INC,30588695.0,3.2301915265142838,Metal processing,2023
+15422,Rabobank Group,51511764.0,7.799682858585822,Banks,2023
+37310,"Sumitomo Mitsui Trust Holdings, Inc.",83100000.0,12.68114867045367,Banks,2023
+8054,Caesars Entertainment,1994091.91,2.177417747105078,Gambling,2023
+11876,MGM Resorts International,2038390.0,2.2411760666980154,Gambling,2023
+1452,Bank of America,3023784.0,3.552415193525513,Asset managers,2023
+20590,Wendel SA,2659962.0,3.0880883210681427,Asset managers,2023
+35500,KBI Global Investors,2770912.25,3.2296882863832237,Asset managers,2023
+37482,Grupo de Inversiones Suramericana SA,2141478.53,2.4263751535138307,Asset managers,2023
+50588,Corp Financiera Colombiana SA,4325139.96,5.213267321380778,Asset managers,2023
+53,Abertis Infraestructuras,17387405.68,3.5683695644604847,Transportation infrastructure & other construction,2023
+457,Aker ASA,14454945.99,2.876821563389002,Transportation infrastructure & other construction,2023
+2096,Bouygues SA,17279651.0,3.5429582915232265,Transportation infrastructure & other construction,2023
+19080,thyssenkrupp AG,36710000.0,7.732202140144011,Commercial services,2023
+31788,Edenred SE,17080006.0,3.47879131622508,Commercial services,2023
+64,Abbott Laboratories,12829000.0,3.0105864617372062,Health care supplies,2023
+6874,Fujitsu Limited,5371252.0,7.524186271687596,Other professional services,2023
+12903,NEC Corporation,6893956.847,9.73371267259312,Other professional services,2023
+13573,NTT DATA Group Corporation,1837924.0,2.397137839130324,Other professional services,2023
+53664,Samsung SDS,3154519.0,4.307587797657453,Other professional services,2023
+840561,Ronald Lu & Partners,1745183.208,2.2625659759300434,Other professional services,2023
+31735,Korea District Heating Corp.,4350567148.0,6.992065327055599,CCGT generation,2023
+21889,Empresas CMPC,8199471.0,2.6428964099895973,Pulp & paper mills,2023
+10268,Korea Electric Power Corp,214273227.0,4.984597905325866,Electricity networks,2023
+831633,"HD Hyundai Electric Co., Ltd",213012547.0,4.952880330172452,Electricity networks,2023
+8076,"Hankyu Hanshin Holdings, Inc.",3403735.803,2.26925616871929,Real estate owners & developers,2023
+8571,Hongkong Land Holdings,6243459.0,4.631349051208836,Real estate owners & developers,2023
+12295,"Mitsui Fudosan Co., Ltd.",4891424.0,3.5067210403693867,Real estate owners & developers,2023
+276,A.P. Moller - Maersk,43451000.0,4.496796227875676,Marine freight,2023
+4226,"Daikin Industries, Ltd.",336432882.0,3.559873086587253,Electrical equipment,2023
+5521,Emerson Electric Co.,595883600.0,6.583475774235136,Electrical equipment,2023
+8338,"Hitachi, Ltd.",267669000.0,2.758508341748498,Electrical equipment,2023
+9103,Trane Technologies,339701943.0,3.597970270136712,Electrical equipment,2023
+15309,Prysmian SpA,269684766.0,2.781999799171519,Electrical equipment,2023
+32334,Signify N.V.,302786000.0,3.167756989817881,Electrical equipment,2023
+34285,"Wolfspeed, Inc.",300920068.0,3.146011677052286,Electrical equipment,2023
+848876,Carrier Global Corp,259897000.0,2.667934531548445,Electrical equipment,2023
+853329,Hitachi Energy,228295227.0,2.299651851454886,Electrical equipment,2023
+3204,"Chicony Power Technology Co.,Ltd.",23603642.05,2.7008693924612386,Computer hardware,2023
+21407,Lenovo Group Limited,18741480.0,2.0375364243106846,Computer hardware,2023
+58858,HP Inc,30533000.0,3.6462248802223143,Computer hardware,2023
+336,"ASE Technology Holding Co., Ltd.",13350245.0,4.423830728837404,Industrial services,2023
+3635,Comcast Corporation,10740026.0,3.3800439465600136,Media,2023
+20384,The Walt Disney Company,10229774.0,3.2021193791835625,Media,2023
+1536,Barrick Gold Corporation,16511200.0,4.337850272324808,Precious metals & minerals mining,2023
+10668,LG,71480107.0,2.4515335758545995,Vehicles & machinery rental & leasing,2023
+863244,"VAMOS LOCACAO DE CAMINHOES, MAQUINAS E EQUIPAMENTOS S.A.",111348159.15,4.065558406273171,Vehicles & machinery rental & leasing,2023
+876426,"Jiangsu Zhongjin Matai Medicinal Packaging Co., Ltd",38165296.71,6.287779785322705,Medical equipment,2023
+14605,"PepsiCo, Inc.",57176847.0,4.159557118808024,Other food processing,2023
+832709,Charoen Pokphand Group,67541585.274,4.991252520469161,Other food processing,2023
+143,ACC,165156862.42000002,4.945137704513068,Cement,2023
+3652,Compal Electronics,41025180.802,2.029430547005714,Electronic components,2023
+6550,Flex Ltd.,136776100.0,7.313496642500314,Electronic components,2023
+13166,Nidec Corporation,148689000.0,7.970916451273622,Electronic components,2023
+19197,Toshiba Corporation,143911921.0,7.707290771323737,Electronic components,2023
+11329,"Marriott International, Inc.",11981120.0,3.18858234402871,Hotels & lodging,2023
+904,ArcelorMittal,67106183.33,5.132623861728274,Iron & steel,2023
+34307,Baosteel,35191024.0,2.4329571832135404,Iron & steel,2023
+851003,HOLDING COMPANY METALLOINVEST AO,35900290.0,2.4929531796804465,Iron & steel,2023
+173,ADP (Aeroports de Paris),23647273.0,2.1215072732635423,Transportation support services,2023
+59134,NATS Holdings Limited,23410020.0,2.0948823235115057,Transportation support services,2023
+8116,"The Hartford Financial Services Group, Inc.",64285110.26,7.426175131234913,Insurance,2023
+16272,Samsung Life Insurance,38722122.0,4.396851974942583,Insurance,2023
+58907,Japan Post Holdings,39622145.8,4.503508634595339,Insurance,2023
+11930,Microsoft Corporation,12571000.0,4.047918161457791,Software,2023
+16339,SAP SE,10405179.0,3.314993846347454,Software,2023
+64620,Dell Technologies,29423379.0,9.750844828322146,Software,2023
+876215,MEDABLE INC,10237411.13,3.2582203866676056,Software,2023
+13360,Nokia Group,39852293.0,2.0544137462577376,Communications equipment,2023
+16191,Samsung Electronics,124715000.0,7.059119706579058,Communications equipment,2023
+21044,ZTE Corporation,71978929.49000001,3.949054806041271,Communications equipment,2023
+1516,BASF SE,92196000.0,5.4645211057339855,Specialty chemicals,2023
+59899,Chemours Co/The,145536000.0,8.793832853886505,Specialty chemicals,2023
+20402,"Walmart, Inc.",283950350.0,6.284124990307132,"Supermarkets, food & drugstores",2023
+2825,Cardinal Health Inc.,33384077.0,2.144467118319312,"Dealers, wholesalers & distributors",2023
+15779,Rexel,38070350.0,2.538487522293121,"Dealers, wholesalers & distributors",2023
+841084,Corteva Inc,8297486.0,4.764646610200221,Biotechnology,2023
+18280,"Taiwan Semiconductor Manufacturing Company, Ltd.",7429158.0,4.050226034036717,Semiconductors,2023
+21860,Formosa Sumco Technology Corporation,5359211.2,2.7775679396287045,Semiconductors,2023
+840012,Kioxia Holdings Corporation,5410621.0,2.8091760457413337,Semiconductors,2023
+15132,Procter & Gamble Company,190840000.0,3.3373084258683896,Personal care & household products,2023
+851219,C CARE LLC,438925143.81,7.937748280469505,Personal care & household products,2023
+7616,"Alphabet, Inc.",7600000.0,6.437323187382542,Marketing,2023
+20789,WPP Group,4599344.3,3.786974438121749,Marketing,2023
+21481,Teck Resources Limited,69423000.0,2.4193564316675555,Other non-ferrous ore mining,2023
+9031,Inditex S.A.,17223486.0,4.682125205782663,Apparel stores,2023
+59396,Decathlon SA,11656299.0,2.985110782837246,Apparel stores,2023
+17322,Sodexo,17565129.594,2.5492299975771378,Food & beverage amenities,2023
+59884,Sinanen Holdings Co Ltd,9884043.0,7.05548588804696,Engineering services,2023
+865555,"SANKI ENGINEERING CO.,LTD.",3931712.0,2.643602518268878,Engineering services,2023
+10670,LG Electronics,74908055.0,4.748334446093103,Electronic equipment,2023
+14292,Panasonic Holdings Corporation,127370100.0,8.237207862017714,Electronic equipment,2023
+21159,VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.,53425931.36,3.319712857186272,Electronic equipment,2023
+943,ARKEMA,78041218.0,3.1000309686082232,Other base chemicals,2023
+4826,The Dow Chemical Company,80548000.0,3.2144643728410864,Other base chemicals,2023
+11085,LyondellBasell Industries N.V.,99353115.0,4.072908915063137,Other base chemicals,2023
+41275,SABIC,122534727.73,5.1311384939821565,Other base chemicals,2023
+21501,Brookfield Renewable Partners L.P.,1459671.0,2.6160533833471624,Hydro generation,2023
+16151,Saint-Gobain,91580809.0,4.65470126921011,Glass products,2023
+1581,Bayer AG,9643000.0,2.5842495599254804,Pharmaceuticals,2023
+7374,GSK,8624433.0,2.254601087356489,Pharmaceuticals,2023
+9829,Johnson & Johnson,18009958.0,5.292127318334015,Pharmaceuticals,2023
+14683,Pfizer Inc.,9678552.0,2.595755589962555,Pharmaceuticals,2023
+45103,AbbVie Inc,8182420.0,2.1115482392810674,Pharmaceuticals,2023
+1113,AT&T Inc.,13125206.0,2.6340502279053664,Telecommunications services,2023
+3244,China Telecom,11434259.883,2.235340112144623,Telecommunications services,2023
+4667,Deutsche Telekom AG,12286924.0,2.4363907579199324,Telecommunications services,2023
+13298,Nippon Telegraph & Telephone Corporation (NTT),20826000.0,4.449829238437633,Telecommunications services,2023
+20813,WORLD WIDE TECHNOLOGY HOLDING COMPANY,28182693.0,6.1844722812627815,Telecommunications services,2023
+2885,"CBRE Group, Inc.",71496606.0,4.792844040724312,Real estate services,2023
+1708,"Berry Global Group, Inc",10933327.0,4.924259751677965,Other containers & packaging,2023
+22121,DS Smith Plc,5015409.0,2.035458267721308,Other containers & packaging,2023
+62923,"Pactiv Evergreen, Inc.",7795807.0,3.392695368402683,Other containers & packaging,2023
+9712,Japan Tobacco Inc.,8268858.441000001,2.90130181362378,Tobacco products,2023
+10227,Korea Gas Corp,121863756.0,3.416330636635756,Gas utilities,2023
+19582,Johnson Controls International plc,121643400.0,13.331652802821296,Plastic products,2023
+2319,Brunswick Corporation,4450103.0,2.8990497622026457,Sporting goods,2023
+12099,"Mitsubishi Heavy Industries, Ltd.",1236525991.0,6.2891374199662975,Industrial machinery,2023
+16919,Siemens AG,457606209.0,2.163181794168712,Industrial machinery,2023
+858430,Siemens Energy AG,1328093000.0,6.774169928642536,Industrial machinery,2023
+658,Amazon.com Inc,54977815.0,2.1774364986909718,Web-based services,2023
+865362,"LIFULL Co., Ltd.",117066761.219,4.943104460960218,Web-based services,2023
+8212,Heineken N.V.,16110668.208,2.4635287425447987,Alcoholic beverages,2023
+22350,Anheuser Busch InBev,24071918.0,3.9777247408056575,Alcoholic beverages,2023
+872700,Sarten Packaging,56645111.0,6.002077987873748,Metal containers & packaging,2023
+3934,COSAN S.A.,55817810.22,2.617417061058544,0,2023
+706,American Tower Corp.,4073989.0,2.898544468257061,Utility line construction,2023
+4287,Dana,105262354.0,4.681783098996363,Fabricated metal components,2023
+11160,Magna International Inc.,83845228.0,3.698139863964277,Fabricated metal components,2023
+13097,Nexans,94902229.0,4.205964500817654,Fabricated metal components,2023
+15854,Robert Bosch GmbH,352492501.0,16.036540109462578,Fabricated metal components,2023
+28622,ZF Group,82744000.0,3.647562794359891,Fabricated metal components,2023
+37495,Orbia Advance Corporation,88385980.0,3.9066869858684217,Fabricated metal components,2023
+19569,United Airlines Holdings,20144531.0,3.300274729296273,Passenger airlines,2023
+432,Air Liquide,22134000.0,2.5216723484334564,Inorganic base chemicals,2023
+15027,Linde PLC,25859001.0,3.039842311921702,Inorganic base chemicals,2023
+37400,Evonik Industries AG,20477000.0,2.291173717829056,Inorganic base chemicals,2023
+5300,EDP - Energias de Portugal S.A.,9279399.33,2.0816703837884813,Other renewable generation,2023
+528,Alfa Laval Corporate AB,31545054.0,3.038254797348179,Other renewable energy equipment,2023
+5025,DSV A/S,16790601.0,3.3011068718999663,Logistics - transport,2023
+10346,Kuehne + Nagel International AG,14034813.0,2.672743063947878,Logistics - transport,2023
+22520,Bolloré SA,12243760.0,2.2643542897301194,Logistics - transport,2023
+866208,"NIPPON EXPRESS HOLDINGS,INC.",14785303.63,2.8438669494206223,Logistics - transport,2023
+19305,Transcontinental Inc.,1780310.0,2.070620796758937,Print publishing,2023
+1636,Bechtle AG,1700360.0,2.807623708626945,IT services,2023
+22110,Computacenter Plc,1442454.0,2.3310477145485997,IT services,2023
+48041,CDW Corporation,4436896.0,7.86437835772848,IT services,2023
+19789,Unibail-Rodamco-Westfield,3427381.0,4.257359100648548,REIT,2023
+40255,Digital Realty Trust Inc,2059751.0,2.383542806387588,REIT,2023
+45126,Kilroy Realty,2176453.0,2.5434384720082908,REIT,2023
+841389,"Sun Communities, Inc.",4929357.0,6.315245445923879,REIT,2023
+858993,"HENGDIAN GROUP DMEGC MAGNETICS Co., LTD",11167349.37,2.38218484575979,Solar energy equipment,2023
+6564,Fluidra,7228949.0,2.257346377059282,Pollution control equipment,2023
+9863,LIXIL Corporation,10061867.0,2.894434883914163,Other non-wood building materials,2023
+21380,adidas AG,7527498.0,2.275276079966996,Apparel & footwear design,2023
+852695,Lamett Europe NV,65059038.0,2.2879445462791828,Construction & building materials dealing & distribution,2023
+11141,"Macy's, Inc.",12559258.34,2.843880984249729,Department stores,2023
+8831,Imerys SA,4695606.0,2.7469307285231297,Other non-metallic minerals,2023
+852110,"Wuxi Xizhou Machinery Co.,Ltd.",15005982.0,3.0901694288834167,Other vehicle equipment & systems,2023
+862715,Vitesco Technologies,13439000.0,2.714478546135672,Other vehicle equipment & systems,2023
+9352,International Paper Company,21435107.0,2.822310925272987,Paper products,2023
+827037,KUN SHAN RIHUI,49492605.02,6.897503204573001,Paper products,2023
+19286,Toyota Boshoku Corporation,9888913.0,4.4984015831161885,Furniture,2023
+20669,Whirlpool Corporation,60872966.0,4.32450125162937,Household appliances,2023
+20102,Veolia Environnement SA,29510000.0,2.5045514057784133,Water supply networks,2023
+58859,Hewlett Packard Enterprise Company,9495091.0,3.197273056554801,Servers & data centers,2023
+855711,Ryoden Corporation,6962280.6,2.9536129334878667,Technology hardware wholesale & distribution,2023
+840513,Sateri,13328583.11,4.685853858455735,Textiles,2023
+860524,Rubix Group International Limited,22498218.0,3.4539610305771857,Industrial machinery distribution,2023
+12272,"Mitsui & Co., Ltd.",34980314.0,3.17677571552731,Chemicals wholesale & distribution,2023
+13025,"New Balance Athletics, Inc.",1483570.0,2.178928904644361,Apparel design & manufacturing,2023
+37636,Crystal International Group Limited,1518021.0,2.2428806120557314,Apparel design & manufacturing,2023
+40250,Deckers Outdoor Corp.,1397561.64,2.0192707967911265,Apparel design & manufacturing,2023
+44062,MAS Holdings,2656682.33,4.356588086927338,Apparel design & manufacturing,2023
+849605,Mango,1413189.0,2.048280008550789,Apparel design & manufacturing,2023
+49615,OCI N.V.,28228277.0,3.4382716587983264,Agricultural chemicals,2023
+16732,Vedanta Ltd,38187551.0,2.720515116034086,Aluminum,2023
+14102,Otto Group,8265886.0,2.4482393985331954,Textile & apparel wholesale,2023
+13849,Oneok Inc.,64300000.0,3.647116059568118,Oil & gas pipelines & storage,2023
+3806,Constellation Energy Corporation,81580059.0,2.2359726841606764,Solar generation,2023
+3876,Ingredion Incorporated,11666376.0,2.060699928958077,Grain & corn milling,2023
+21473,BRF S.A,733159474.0,4.8517854926357735,Animal processing,2023
+8697,Korea Shipbuilding and Offshore Engineering,114732697.0,2.020983373179736,Shipbuilding,2023
+19765,Umicore,8706999.0,2.212398514775177,Recycling,2023
+4212,"Dai Nippon Printing Co., Ltd.",4368816.0,2.457321783821236,Printing services,2023
+19238,TOPPAN Holdings Inc.,5928816.0,3.4832306796569776,Printing services,2023
+880197,GRAFICA E EDITORA POSIGRAF,4741426.0,2.702362754127233,Printing services,2023
+12942,Nestlé,108831061.0,3.835719863737145,Dairy & egg products,2023
+38107,KOBO PRODUCTS,3532723.4,3.389087284217486,Health care facilities,2023
+4365,Deere & Company,97640000.0,2.1688094141075527,"Agriculture, construction & mining machinery",2023
+6555,FLSmidth & Co. A/S,127417791.0,3.037952259172139,"Agriculture, construction & mining machinery",2023
+63741,Trafigura PTE,378661250.0,3.462509748745559,Oil & gas marketing & retailing,2023
+18562,Tereos,5917574.0,2.0235325309282537,Sugar,2023
+41143,Deutsche Bahn AG,12394771.0,2.2169511200029968,Passenger rail,2023
+15485,"Rakuten Group, Inc.",9201774.0,3.4847787565616994,Discretionary delivery retail,2023
+53647,Zalando SE,5875258.0,2.0194112179451347,Discretionary delivery retail,2023
+884326,SUPREME INDUSTRIES INC,63261340.85,4.332503798300769,Energy infrastructure construction,2023
+2858,CWT,8781567.92,2.793668422566196,Travel services,2023
+51274,Diamond Packaging,21017624.0,2.964738783305281,Paper packaging,2023
+869244,EDIPRINT SA DE CV,39751475.0,5.874196154832789,Paper packaging,2023
+70685,TORCON,1210303573.0,7.544731157597255,Non-residential building construction,2023
+4151,CVS Health,14472715.0,3.883155336860869,Health care services,2023
+20595,"Elevance Health, Inc.",9575091.0,2.4292908764829177,Health care services,2023
+3402,"Citizen Watch Co.,Ltd.",1651188.46,2.6573488043517246,Accessories,2023
+13779,The ODP Corporation,5556164.0,2.594438095363989,Home & office wholesale,2023
+8061,Hanwha Corp.,4236881.0,4.102672560459622,Other financial,2023
+895565,W.A.G payment solutions plc,5379652.0,5.297577316643851,Other financial,2023
+13367,Nisshin Seifun Group Inc.,56531725.0,3.7683352856325776,Baked goods & cereals,2023
+13279,NIKE Inc.,17922226.0,2.42360992652794,Clothing manufacture,2023
+51264,"Takasago Thermal Engineering Co., Ltd.",6294255.0,2.134110001678416,Building sub-contractors,2023
+2523,C.H. Robinson,66223795.53,5.810184043809782,Logistics - 3rd party,2023
+4663,DHL Group,34110000.0,2.831114143706779,Logistics - 3rd party,2023
+3751,ConocoPhillips,235000000.0,2.3850699840815057,Oil & gas extraction,2023
+13649,Occidental Petroleum Corporation,217000000.0,2.160078748696645,Oil & gas extraction,2023
+41862,Pemex – Petroleos Mexicanos,386330409.0,4.276626410315185,Oil & gas extraction,2023
+5802,Eramet,15187637.0,3.686085983701632,Other non-ferrous metals,2023
+19845,Union Pacific Corporation,5812587.0,2.2942726857995863,Rail freight,2023
+834784,"GINGER LOGISTICS INT`L CO.,LTD",546045170.56,3.162223427418306,Intermodal transport,2023
+12112,Mitsubishi Corporation,326365685.0,2.9998138979378486,Food & beverage wholesale,2023
+905579,Suez SA,2871377.0,2.426062424591907,Waste management,2023
